@@ -1,101 +1,58 @@
+@font-face {
+	font-family: "azoftSans";
+	src: url(../fonts/azoft-sans.ttf);
+}
+
+.copyright {
+	font-size: 11px;
+	text-align: center;
+	color: #888888;
+	font-family: "azoftSans", sans-serif;
+}
+
 .logo {
 	text-align: center;
 }
 
 .main {
-	padding: 30px 30px 30px 30px;
+	padding-bottom: 30px;
+	padding-left: 30px;
+	padding-right: 30px;
+}
+
+.main-image {
+	height: auto;
+	width: 100%
 }
 
 .main img {
 	margin: auto;
 }
 
-.nav {
-	float: right;
-	height: 30px;
-	margin-top: 40px;
-
-}
-
-.nav ul {
-	list-style: none;
-	position: relative;
-}
-.nav ul li {
-	float: left;
-	margin-left: 35px;
-	position: relative;
-	display: block;
+.navigation {
+	background-color: white;
+	border-color: white;
 	font-size: 22px;
-	font-family: "sans-serif";
+	font-family: "azoftSans", sans-serif;
 }
 
-.nav ul li > a {
-	color: #666;
-	line-height: 40px;
-	text-decoration: none;
-	display: block;
-}
-
-.nav ul li:hover > a {
+.navigation ul li:hover > a {
 	color: #d16f4e;
+	-moz-text-decoration-color: #d16f4e;
+	text-decoration: underline;
+	text-decoration-color: #d16f4e;
 }
 
-.nav ul li.current-menu-item > a {
+.navigation ul li.current-menu-item > a {
 	color: #d16f4e;
+	-moz-text-decoration-color: #d16f4e;
+	text-decoration: underline;
+	text-decoration-color: #d16f4e;
 }
 
-.nav ul li.current-menu-item > a:hover {
+.navigation ul li.current-menu-item > a:hover {
 	color: #d16f4e;
-}
-
-.nav ul li ul {
-	position: absolute;
-	background: #fff;
-	min-width: 170px;
-	border: 1px solid #e6e6e6;
-	display:none;
-	left: -5px;
-	top: 39px;
-}
-.nav ul li ul li {
-	width: 100%;
-	margin: 0 20px 0 0;
-}
-
-.nav ul li ul li a {
-	line-height: 20px;
-	padding: 10px 0;
-	margin: 0 12px;
-	color: #888;
-	border-bottom: 1px dotted #ddd;
-}
-
-.nav ul li ul li:last-child a {
-	border: 0;
-}
-
-/* IE7 Fix */
-.nav li:hover ul {
-	display: block;
-}
-
-.nav ul li ul li ul {
-	position: absolute;
-	left: 170px;
-	top: -1px;
-	display: none;
-	visibility: hidden; }
-
-/* Responsive Select Menu */
-
-.nav select {
-	display: none;
-	-webkit-appearance: none;
-	width: 100%;
-	padding: 10px 14px;
-	border: 1px solid #e0e0e0;
-	border-radius: 0;
-	-webkit-border-radius: 0;
-	-moz-border-radius: 0;
+	-moz-text-decoration-color: #d16f4e;
+	text-decoration: underline;
+	text-decoration-color: #d16f4e;
 }
