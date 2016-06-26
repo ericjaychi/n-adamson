@@ -6,7 +6,6 @@
 .copyright {
 	font-size: 11px;
 	text-align: center;
-	color: #888888;
 	font-family: "azoftSans", sans-serif;
 }
 
@@ -25,8 +24,16 @@
 	width: 100%
 }
 
+.main a {
+	color: #888888;
+}
+
 .main img {
 	margin: auto;
+}
+
+.main p {
+	color: #888888;
 }
 
 .navigation {
