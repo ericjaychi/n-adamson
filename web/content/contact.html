@@ -17,7 +17,6 @@
 		<!-- Custom CSS -->
 		<link rel="stylesheet" type="text/css" href="css/style.css">
 	</head>
-
 	<body>
 		<nav class="navbar navbar-default navigation">
 			<div class="container-fluid">
@@ -35,19 +34,46 @@
 				</div>
 				<div class="collapse navbar-collapse" id="myNavbar">
 					<ul class="nav navbar-nav navbar-right" id="navigation">
-						<li class="current-menu-item"><a href="#">Home</a></li>
+						<li><a href="index.html">Home</a></li>
 						<li><a href="#">Work</a></li>
 						<li><a href="about.html">About</a></li>
-						<li><a href="contact.html">Contact</a></li>
+						<li class="current-menu-item"><a href="contact.html">Contact</a></li>
 					</ul>
 				</div>
 			</div>
 		</nav>
 		<div class="main">
 			<div class="container">
-			<hr><div class="row">
+				<hr><div class="row">
 					<div class="col-md-12">
-						<img class="main-image" src="images/fault-city.jpg">
+						<h1 class="navigation">CONTACT</h1>
+					</div>
+				</div><hr>
+			</div>
+			<div class="container">
+				<div class="row">
+					<div class="col-md-6">
+						<p>
+							If you have any questions or would like to know more about my artwork please feel free to contact me!
+						</p>
+						<hr>
+						<p>
+							Ontario, California
+						</p>
+						<hr>
+						<p>
+							<b>E:</b> ncladamson@gmail.com<br>
+							<b>P:</b> 909.717.4726<br>
+							<b>H:</b> 24/7/365 days
+						</p>
+					</div>
+					<div class="col-md-6">
+						<form class="form-email" data-success="Thanks for your submission, we will be in touch shortly." data-error="Please fill all fields correctly.">
+							<input type="text" class="validate-required" name="name" placeholder="Your Name" />
+							<input type="text" class="validate-required validate-email" name="email" placeholder="Your Email Address" />
+							<textarea class="validate-textarea" name="message" rows="4" placeholder="Your Message"></textarea>
+							<input class="button" type="submit" value="Send Message" />
+						</form>
 					</div>
 				</div><hr>
 			</div>
@@ -59,6 +85,7 @@
 				</div>
 			</div>
 		</div>
+
 		<script src="https://code.jquery.com/jquery-2.1.3.min.js"></script>
 		<script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/js/bootstrap.min.js"></script>
 	</body>
