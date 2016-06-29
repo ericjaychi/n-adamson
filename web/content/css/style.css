@@ -23,6 +23,40 @@
 	font-family: "lucidaSans", sans-serif;
 }
 
+ul {
+	list-style: none;
+	list-style-position: outside;
+}
+
+.filter {
+	padding-bottom: 40px;
+	padding-left: 15px;
+}
+
+.filter li {
+	float: left;
+	padding-right: 10px;
+	margin-right: 10px;
+	font-size: 12px;
+	line-height: 12px;
+}
+
+.show-all {
+	border-right: 1px solid #ddd;
+}
+
+.professional {
+	border-right: 1px solid #ddd;
+}
+
+.personal {
+	border-right: 1px solid #ddd;
+}
+
+.storyboard {
+	border-right: 1px solid #ddd;
+}
+
 .validate-required {
 	background: #f5f5f5;
 	border: none;
