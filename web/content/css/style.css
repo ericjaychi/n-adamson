@@ -134,21 +134,15 @@ ul {
 }
 
 .navigation ul li:hover > a {
-	color: #5DBCD2 !important;
-	-moz-text-decoration-color: #5DBCD2;
-	text-decoration: underline;
+	border-bottom: 2px solid #5DBCD2; !important;
 }
 
 .navigation ul li.current-menu-item > a {
-	color: #5DBCD2;
-	-moz-text-decoration-color: #5DBCD2;
-	text-decoration: underline;
+	border-bottom: 2px solid #5DBCD2; !important;
 }
 
 .navigation ul li.current-menu-item > a:hover {
-	color: #5DBCD2;
-	-moz-text-decoration-color: #5DBCD2;
-	text-decoration: underline;
+	border-bottom: 2px solid #5DBCD2; !important;
 }
 
 p {
