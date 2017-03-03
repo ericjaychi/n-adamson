@@ -104,6 +104,10 @@ ul {
 	font-family: "azoftSans", sans-serif;
 }
 
+.navbar-default .navbar-nav>li>a:focus, .navbar-default .navbar-nav>li>a:hover {
+	color: #777;
+}
+
 .navigation ul li:hover > a {
 	border-bottom: 2px solid #EB9100; !important;
 }
