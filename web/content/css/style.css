@@ -113,11 +113,11 @@ ul {
 }
 
 .navigation ul li.current-menu-item > a {
-	border-bottom: 2px solid #EB9100; !important;
+	border-bottom: 2px solid #5DBCD2; !important;
 }
 
 .navigation ul li.current-menu-item > a:hover {
-	border-bottom: 2px solid #EB9100; !important;
+	border-bottom: 2px solid #5DBCD2; !important;
 }
 
 p {
