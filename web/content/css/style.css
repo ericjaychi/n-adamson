@@ -120,6 +120,10 @@ ul {
 	border-bottom: 2px solid #5DBCD2; !important;
 }
 
+.nested-page-image {
+	margin-bottom: 20px !important;
+}
+
 p {
 	font-family: "lucidaSans", sans-serif;
 }
