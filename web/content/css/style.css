@@ -141,13 +141,6 @@ p {
 	column-width: 33.33333333333333%;
 }
 
-.tile {
-	-webkit-transform: scale(0);
-	transform: scale(0);
-	-webkit-transition: all 350ms ease;
-	transition: all 350ms ease;
-}
-
 .overlay {
 	position: absolute;
 	top: 0;
@@ -161,8 +154,11 @@ p {
 	background-color: white;
 }
 
-.tile:hover .overlay {
-	opacity: 0.9;
+.tile {
+	-webkit-transform: scale(0);
+	transform: scale(0);
+	-webkit-transition: all 350ms ease;
+	transition: all 350ms ease;
 }
 
 .text {
@@ -176,10 +172,15 @@ p {
 	text-align: center;
 }
 
-/*.tile:hover {
+.tile:hover {
 	opacity: 0.5;
 	filter: alpha(opacity = 50);
-}*/
+}
+
+.tile:hover .overlay {
+	opacity: 0.9;
+	filter: alpha(opacity = 50);
+}
 
 .tile img {
 	height: auto;
