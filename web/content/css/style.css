@@ -152,10 +152,6 @@ p {
 	transition: all 350ms ease;
 }
 
-.test-image:hover {
-	opacity: 0.5;
-}
-
 .tile:hover {
 	opacity: 0.5;
 	filter: alpha(opacity = 50);
