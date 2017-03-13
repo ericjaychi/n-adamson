@@ -69,6 +69,12 @@ ul {
 	font-family: "azoftSans", sans-serif;
 }
 
+.description {
+	font-size: 12px;
+	text-align: center;
+	font-family: "azoftSans", sans-serif;
+}
+
 .logo {
 	text-align: center;
 }
