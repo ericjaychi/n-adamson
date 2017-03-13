@@ -80,6 +80,13 @@ ul {
 	font-family: "azoftSans", sans-serif;
 }
 
+.resume {
+	font-size: 13px;
+	text-align: center;
+	font-family: "tahoma", sans-serif;
+	font-weight: bold;
+}
+
 .logo {
 	text-align: center;
 }
