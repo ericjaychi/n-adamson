@@ -8,6 +8,11 @@
 	src: url(../fonts/lucida-sans.ttf);
 }
 
+@font-face {
+	font-family: "tahoma";
+	src: url(../fonts/tahoma.ttf);
+}
+
 .button {
 	height: 50px;
 	line-height: 48px;
@@ -66,7 +71,7 @@ ul {
 .copyright {
 	font-size: 11px;
 	text-align: center;
-	font-family: "azoftSans", sans-serif;
+	font-family: "tahoma", sans-serif;
 }
 
 .description {
