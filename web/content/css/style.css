@@ -104,15 +104,15 @@ ul {
 }
 
 .navigation ul li:hover > a {
-	border-bottom: 2px solid #EB9100; !important;
+	border-bottom: 2px solid #EB9100;
 }
 
 .navigation ul li.current-menu-item > a {
-	border-bottom: 2px solid #5DBCD2; !important;
+	border-bottom: 2px solid #5DBCD2;
 }
 
 .navigation ul li.current-menu-item > a:hover {
-	border-bottom: 2px solid #5DBCD2; !important;
+	border-bottom: 2px solid #5DBCD2;
 }
 
 .nested-page-image {
@@ -136,6 +136,19 @@ p {
 	column-width: 33.33333333333333%;
 }
 
+.overlay {
+	position: absolute;
+	top: 0;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	height: 100%;
+	width: 100%;
+	opacity: 0;
+	transition: 350ms ease;
+	background-color: white;
+}
+
 .tile {
 	-webkit-transform: scale(0);
 	transform: scale(0);
@@ -143,9 +156,25 @@ p {
 	transition: all 350ms ease;
 }
 
+.text {
+	color: black;
+	font-size: 20px;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	-ms-transform: translate(-50%, -50%);
+	text-align: center;
+}
+
 .tile:hover {
 	opacity: 0.5;
-	filter: alpha(opacity=50);
+	filter: alpha(opacity = 50);
+}
+
+.tile:hover .overlay {
+	opacity: 0.9;
+	filter: alpha(opacity = 50);
 }
 
 .tile img {
@@ -153,6 +182,10 @@ p {
 	width: 100%;
 	padding: 6px;
 	border: 1px solid gray;
+}
+
+span {
+	font-family: "lucidaSans", sans-serif;
 }
 
 .scale-anm {
