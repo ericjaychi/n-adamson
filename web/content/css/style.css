@@ -99,7 +99,8 @@ ul {
 
 .main-image {
 	height: auto;
-	width: 90%
+	width: auto;
+	max-height: 738px;
 }
 
 .main a {
