@@ -77,13 +77,13 @@ ul {
 .description {
 	font-size: 12px;
 	text-align: left;
-	font-family: "azoftSans", sans-serif;
+	font-family: "tahoma", sans-serif;
 }
 
 .description-title {
 	font-size 14px;
-	text-align: center;
-	font-family: "azoftSans", sans-serif;
+	text-align: left;
+	font-family: "tahoma", sans-serif;
 }
 
 .resume {
