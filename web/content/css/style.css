@@ -124,6 +124,15 @@ ul {
 	font-family: "azoftSans", sans-serif;
 }
 
+.navigation-title {
+	background-color: white;
+	border-color: white;
+	font-size: 14px;
+	font-family: "tahoma", sans-serif;
+	margin-top: 15px;
+	margin-bottom: 15px;
+}
+
 .navbar-default .navbar-nav>li>a:focus,
 .navbar-default .navbar-nav>li>a:hover {
 	color: #777;
