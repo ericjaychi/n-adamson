@@ -4,7 +4,7 @@
 		<meta charset="UTF-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-		<title>Age of Arcadia™ | Nicole Adamson</title>
+		<title>Grub Slumber | Nicole Adamson</title>
 
 		<!-- FAVICON -->
 		<link rel="icon" type="image/jpg" href="../images/favicon-gray.jpg">
@@ -29,17 +29,17 @@
 						<span class="icon-bar"></span>
 					</button>
 					<div class="container-fluid">
-						<a href="../index.html">
+						<a href="../index.php">
 							<img src="../images/logo.jpg">
 						</a>
 					</div>
 				</div>
 				<div class="collapse navbar-collapse" id="myNavbar">
 					<ul class="nav navbar-nav navbar-right" id="navigation">
-						<li><a href="../index.html">Home</a></li>
-						<li class="current-menu-item"><a href="../work.html">Work</a></li>
-						<li><a href="../about.html">About</a></li>
-						<li><a href="../contact.html">Contact</a></li>
+						<li><a href="../index.php">Home</a></li>
+						<li class="current-menu-item"><a href="../work.php">Work</a></li>
+						<li><a href="../about.php">About</a></li>
+						<li><a href="../contact.php">Contact</a></li>
 					</ul>
 				</div>
 			</div>
@@ -48,54 +48,59 @@
 			<div class="container">
 				<hr><div class="row">
 					<div class="col-md-12">
-						<h1 class="navigation-title">AGE OF ARCADIA™</h1>
+						<h1 class="nagivation-title">GRUB SLUMBER</h1>
 					</div>
 				</div><hr>
 				<div class="row">
 					<div class="col-md-8">
-						<a href="../images/professional/vesperia-closeup-pg1.jpg" data-lightbox="roadtrip">
-							<div class="tile scale-anm">
-								<img src="../images/professional/vesperia-closeup-pg1.jpg" alt="" />
+						<a href="../images/personal/grub-slumber-port-book-settsud2.jpg" data-lightbox="roadtrip">
+							<div class="tile scale-anm personal all">
+								<img src="../images/personal/grub-slumber-port-book-settsud2.jpg" alt="" />
 							</div>
 						</a>
-						<a href="../images/professional/vesperia-closeup-pg2.jpg" data-lightbox="roadtrip">
-							<div class="tile scale-anm">
-								<img src="../images/professional/vesperia-closeup-pg2.jpg" alt="" />
+						<a href="../images/personal/grub-slumber-port-book-settsud1.jpg" data-lightbox="roadtrip">
+							<div class="tile scale-anm personal all">
+								<img class="nested-page-image" src="../images/personal/grub-slumber-port-book-settsud1.jpg" alt="" />
 							</div>
 						</a>
-						<a href="../images/professional/vesperia-pg1.jpg" data-lightbox="roadtrip">
-							<div class="tile scale-anm">
-								<img class="nested-page-image" src="../images/professional/vesperia-pg1.jpg" alt="" />
+						<a href="../images/personal/grub-slumber-port-book-set-apartment-room.jpg" data-lightbox="roadtrip">
+							<div class="tile scale-anm personal all">
+								<img class="nested-page-image" src="../images/personal/grub-slumber-port-book-set-apartment-room.jpg" alt="" />
 							</div>
 						</a>
-						<a href="../images/professional/vesperia-pg2.jpg" data-lightbox="roadtrip">
-							<div class="tile scale-anm">
-								<img class="nested-page-image" src="../images/professional/vesperia-pg2.jpg" alt="" />
+						<a href="../images/personal/grub-slumber-port-book-blaster.jpg" data-lightbox="roadtrip">
+							<div class="tile scale-anm personal all">
+								<img class="nested-page-image" src="../images/personal/grub-slumber-port-book-blaster.jpg" alt="" />
 							</div>
 						</a>
-						<a href="../images/professional/vesperia-pg3.jpg" data-lightbox="roadtrip">
-							<div class="tile scale-anm">
-								<img class="nested-page-image" src="../images/professional/vesperia-pg3.jpg" alt="" />
+						<a href="../images/personal/grub-slumber-port-book-2nd-set-enviro.jpg" data-lightbox="roadtrip">
+							<div class="tile scale-anm personal all">
+								<img class="nested-page-image" src="../images/personal/grub-slumber-port-book-2nd-set-enviro.jpg" alt="" />
 							</div>
 						</a>
-						<a href="../images/professional/vesperia-pg4.jpg" data-lightbox="roadtrip">
-							<div class="tile scale-anm">
-								<img src="../images/professional/vesperia-pg4.jpg" alt="" />
+						<a href="../images/personal/grub-slumber-port-book-apartment_mini.jpg" data-lightbox="roadtrip">
+							<div class="tile scale-anm personal all">
+								<img class="nested-page-image" src="../images/personal/grub-slumber-port-book-apartment_mini.jpg" alt="" />
+							</div>
+						</a>
+						<a href="../images/personal/grub-slumber-port-book-set-extras.jpg" data-lightbox="roadtrip">
+							<div class="tile scale-anm personal all">
+								<img class="nested-page-image" src="../images/personal/grub-slumber-port-book-set-extras.jpg" alt="" />
 							</div>
 						</a>
 					</div>
 					<div class="col-md-4">
 						<p class="description-title">
-							Comic
+							Video Game Concept
 						</p><br>
 						<p class="description">
-							Consists of full-spread and large panel environments<br><br>
+							Pre-visual work for personal story.<br><br>
 
-							Vesperia wide shot made of pages 1 & 2.<br><br>
+							Initial look at story's main character & world.<br><br>
 
-							Shows initial sketches (made by 4DE's artists), linework, asset concepts, callouts, supplementary material, and final illustration.<br><br>
+							Consists of main character's development & environment, weapon, level, and level boss.<br><br>
 
-							Ongoing project.
+							Shows concepts in initial stages & final piece.
 						</p>
 					</div>
 				</div><hr>

@@ -4,7 +4,7 @@
 		<meta charset="UTF-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-		<title>Fault City | Nicole Adamson</title>
+		<title>Wonka | Nicole Adamson</title>
 
 		<!-- FAVICON -->
 		<link rel="icon" type="image/jpg" href="../images/favicon-gray.jpg">
@@ -29,17 +29,17 @@
 						<span class="icon-bar"></span>
 					</button>
 					<div class="container-fluid">
-						<a href="../index.html">
+						<a href="../index.php">
 							<img src="../images/logo.jpg">
 						</a>
 					</div>
 				</div>
 				<div class="collapse navbar-collapse" id="myNavbar">
 					<ul class="nav navbar-nav navbar-right" id="navigation">
-						<li><a href="../index.html">Home</a></li>
-						<li class="current-menu-item"><a href="../work.html">Work</a></li>
-						<li><a href="../about.html">About</a></li>
-						<li><a href="../contact.html">Contact</a></li>
+						<li><a href="../index.php">Home</a></li>
+						<li class="current-menu-item"><a href="../work.php">Work</a></li>
+						<li><a href="../about.php">About</a></li>
+						<li><a href="../contact.php">Contact</a></li>
 					</ul>
 				</div>
 			</div>
@@ -48,47 +48,36 @@
 			<div class="container">
 				<hr><div class="row">
 					<div class="col-md-12">
-						<h1 class="navigation-title">FAULT CITY</h1>
+						<h1 class="navigation-title">FANDANGO COMMISSION: CHARLIE AND THE CHOCOLATE FACTORY (2005)</h1>
 					</div>
 				</div><hr>
 				<div class="row">
 					<div class="col-md-8">
-						<a href="../images/personal/fault-city.jpg" data-lightbox="roadtrip">
+						<a href="../images/professional/wonka-final_mini.jpg" data-lightbox="roadtrip">
 							<div class="tile scale-anm">
-								<img class="nested-page-image" src="../images/personal/fault-city.jpg" alt="" />
+								<img class="nested-page-image" src="../images/professional/wonka-final_mini.jpg" alt="" />
 							</div>
 						</a>
-						<a href="../images/personal/newport-temps-fault-city-pg1.jpg" data-lightbox="roadtrip">
+						<a href="../images/professional/wonka-template.jpg" data-lightbox="roadtrip">
 							<div class="tile scale-anm">
-								<img class="nested-page-image" src="../images/personal/newport-temps-fault-city-pg1.jpg" alt="" />
-							</div>
-						</a>
-						<a href="../images/personal/newport-temps-fault-city-pg2.jpg" data-lightbox="roadtrip">
-							<div class="tile scale-anm">
-								<img class="nested-page-image" src="../images/personal/newport-temps-fault-city-pg2.jpg" alt="" />
-							</div>
-						</a>
-						<a href="../images/personal/newport-temps-fault-city-pg3.jpg" data-lightbox="roadtrip">
-							<div class="tile scale-anm">
-								<img class="nested-page-image" src="../images/personal/newport-temps-fault-city-pg3.jpg" alt="" />
-							</div>
-						</a>
-						<a href="../images/personal/newport-temps-fault-city-pg4.jpg" data-lightbox="roadtrip">
-							<div class="tile scale-anm">
-								<img src="../images/personal/newport-temps-fault-city-pg4.jpg" alt="" />
+								<img src="../images/professional/wonka-template.jpg" alt="" />
 							</div>
 						</a>
 					</div>
 					<div class="col-md-4">
 						<p class="description-title">
-							Visual Development Project
+							Poster Illustration
 						</p><br>
 						<p class="description">
-							Original story where the advancement of technology has separated mankind into 3 opposing factions.<br><br>
+							Made for "I Love Movies" art shows.<br><br>
 
-							Shows development from sketches to final piece.<br><br>
+							Artist was made to choose favorite file that was made in the early 2000s and create environment piece inspired by film.<br><br>
 
-							Designed city exterior + interiors as well as individual objects, such as lights, props, houses, etc.
+							Displayed at San Diego Comic-Con and Twilight Concert Series in Santa Monica.<br><br>
+
+							18'' x 24'' poster prints.<br><br>
+
+							Shows initial sketches, asset design, and final.
 						</p>
 					</div>
 				</div><hr>

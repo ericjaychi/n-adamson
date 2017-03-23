@@ -27,17 +27,17 @@
 						<span class="icon-bar"></span>
 					</button>
 					<div class="container-fluid">
-						<a href="index.html">
+						<a href="index.php">
 							<img src="images/logo.jpg">
 						</a>
 					</div>
 				</div>
 				<div class="collapse navbar-collapse" id="myNavbar">
 					<ul class="nav navbar-nav navbar-right" id="navigation">
-						<li><a href="index.html">Home</a></li>
-						<li><a href="work.html">Work</a></li>
+						<li><a href="index.php">Home</a></li>
+						<li><a href="work.php">Work</a></li>
 						<li class="current-menu-item"><a href="about.html">About</a></li>
-						<li><a href="contact.html">Contact</a></li>
+						<li><a href="contact.php">Contact</a></li>
 					</ul>
 				</div>
 			</div>

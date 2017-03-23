@@ -29,17 +29,17 @@
 						<span class="icon-bar"></span>
 					</button>
 					<div class="container-fluid">
-						<a href="index.html">
+						<a href="index.php">
 							<img src="images/logo.jpg">
 						</a>
 					</div>
 				</div>
 				<div class="collapse navbar-collapse" id="myNavbar">
 					<ul class="nav navbar-nav navbar-right" id="navigation">
-						<li><a href="index.html">Home</a></li>
-						<li class="current-menu-item"><a href="work.html">Work</a></li>
-						<li><a href="about.html">About</a></li>
-						<li><a href="contact.html">Contact</a></li>
+						<li><a href="index.php">Home</a></li>
+						<li class="current-menu-item"><a href="work.php">Work</a></li>
+						<li><a href="about.php">About</a></li>
+						<li><a href="contact.php">Contact</a></li>
 					</ul>
 				</div>
 			</div>
@@ -68,7 +68,7 @@
 				<div class="row">
 					<div class="col-md-12">
 						<div id="portfolio">
-							<a href="portfolio/fandango-commission.html">
+							<a href="portfolio/fandango-commission.php">
 								<div class="tile scale-anm professional all">
 									<img src="images/professional/wonka-final_mini.jpg" alt=""/>
 									<div class="overlay">
@@ -76,7 +76,7 @@
 									</div>
 								</div>
 							</a>
-							<a href="portfolio/age-of-arcadia.html">
+							<a href="portfolio/age-of-arcadia.php">
 								<div class="tile scale-anm professional all">
 									<img src="images/professional/vesperia-pg1.jpg" alt="" />
 									<div class="overlay">
@@ -84,7 +84,7 @@
 									</div>
 								</div>
 							</a>
-							<a href="portfolio/daylight-saving.html">
+							<a href="portfolio/daylight-saving.php">
 								<div class="tile scale-anm professional all">
 									<img src="images/professional/daylight-savings-final-pg1.jpg" alt="" />
 									<div class="overlay">
@@ -92,7 +92,7 @@
 									</div>
 								</div>
 							</a>
-							<a href="portfolio/fault-city.html">
+							<a href="portfolio/fault-city.php">
 								<div class="tile scale-anm personal all">
 									<img src="images/personal/fault-city.jpg" alt="" />
 									<div class="overlay">
@@ -100,7 +100,7 @@
 									</div>
 								</div>
 							</a>
-							<a href="portfolio/grub-slumber.html">
+							<a href="portfolio/grub-slumber.php">
 								<div class="tile scale-anm personal all">
 									<img src="images/personal/grub-slumber-cover.jpg" alt="" />
 									<div class="overlay">
@@ -140,7 +140,7 @@
 									</div>
 								</div>
 							</a>
-							<a href="portfolio/figure-drawings.html">
+							<a href="portfolio/figure-drawings.php">
 								<div class="tile scale-anm personal all">
 									<img src="images/personal/sketches-final-compile-test-figure-sample_mini.jpg" alt="" />
 									<div class="overlay">

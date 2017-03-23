@@ -4,7 +4,7 @@
 		<meta charset="UTF-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-		<title>Wonka | Nicole Adamson</title>
+		<title>Age of Arcadia™ | Nicole Adamson</title>
 
 		<!-- FAVICON -->
 		<link rel="icon" type="image/jpg" href="../images/favicon-gray.jpg">
@@ -29,17 +29,17 @@
 						<span class="icon-bar"></span>
 					</button>
 					<div class="container-fluid">
-						<a href="../index.html">
+						<a href="../index.php">
 							<img src="../images/logo.jpg">
 						</a>
 					</div>
 				</div>
 				<div class="collapse navbar-collapse" id="myNavbar">
 					<ul class="nav navbar-nav navbar-right" id="navigation">
-						<li><a href="../index.html">Home</a></li>
-						<li class="current-menu-item"><a href="../work.html">Work</a></li>
-						<li><a href="../about.html">About</a></li>
-						<li><a href="../contact.html">Contact</a></li>
+						<li><a href="../index.php">Home</a></li>
+						<li class="current-menu-item"><a href="../work.php">Work</a></li>
+						<li><a href="../about.php">About</a></li>
+						<li><a href="../contact.php">Contact</a></li>
 					</ul>
 				</div>
 			</div>
@@ -48,36 +48,54 @@
 			<div class="container">
 				<hr><div class="row">
 					<div class="col-md-12">
-						<h1 class="navigation-title">FANDANGO COMMISSION: CHARLIE AND THE CHOCOLATE FACTORY (2005)</h1>
+						<h1 class="navigation-title">AGE OF ARCADIA™</h1>
 					</div>
 				</div><hr>
 				<div class="row">
 					<div class="col-md-8">
-						<a href="../images/professional/wonka-final_mini.jpg" data-lightbox="roadtrip">
+						<a href="../images/professional/vesperia-closeup-pg1.jpg" data-lightbox="roadtrip">
 							<div class="tile scale-anm">
-								<img class="nested-page-image" src="../images/professional/wonka-final_mini.jpg" alt="" />
+								<img src="../images/professional/vesperia-closeup-pg1.jpg" alt="" />
 							</div>
 						</a>
-						<a href="../images/professional/wonka-template.jpg" data-lightbox="roadtrip">
+						<a href="../images/professional/vesperia-closeup-pg2.jpg" data-lightbox="roadtrip">
 							<div class="tile scale-anm">
-								<img src="../images/professional/wonka-template.jpg" alt="" />
+								<img src="../images/professional/vesperia-closeup-pg2.jpg" alt="" />
+							</div>
+						</a>
+						<a href="../images/professional/vesperia-pg1.jpg" data-lightbox="roadtrip">
+							<div class="tile scale-anm">
+								<img class="nested-page-image" src="../images/professional/vesperia-pg1.jpg" alt="" />
+							</div>
+						</a>
+						<a href="../images/professional/vesperia-pg2.jpg" data-lightbox="roadtrip">
+							<div class="tile scale-anm">
+								<img class="nested-page-image" src="../images/professional/vesperia-pg2.jpg" alt="" />
+							</div>
+						</a>
+						<a href="../images/professional/vesperia-pg3.jpg" data-lightbox="roadtrip">
+							<div class="tile scale-anm">
+								<img class="nested-page-image" src="../images/professional/vesperia-pg3.jpg" alt="" />
+							</div>
+						</a>
+						<a href="../images/professional/vesperia-pg4.jpg" data-lightbox="roadtrip">
+							<div class="tile scale-anm">
+								<img src="../images/professional/vesperia-pg4.jpg" alt="" />
 							</div>
 						</a>
 					</div>
 					<div class="col-md-4">
 						<p class="description-title">
-							Poster Illustration
+							Comic
 						</p><br>
 						<p class="description">
-							Made for "I Love Movies" art shows.<br><br>
+							Consists of full-spread and large panel environments<br><br>
 
-							Artist was made to choose favorite file that was made in the early 2000s and create environment piece inspired by film.<br><br>
+							Vesperia wide shot made of pages 1 & 2.<br><br>
 
-							Displayed at San Diego Comic-Con and Twilight Concert Series in Santa Monica.<br><br>
+							Shows initial sketches (made by 4DE's artists), linework, asset concepts, callouts, supplementary material, and final illustration.<br><br>
 
-							18'' x 24'' poster prints.<br><br>
-
-							Shows initial sketches, asset design, and final.
+							Ongoing project.
 						</p>
 					</div>
 				</div><hr>

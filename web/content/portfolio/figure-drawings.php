@@ -4,7 +4,7 @@
 		<meta charset="UTF-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-		<title>Project Daylight Saving | Nicole Adamson</title>
+		<title>Figure Drawings | Nicole Adamson</title>
 
 		<!-- FAVICON -->
 		<link rel="icon" type="image/jpg" href="../images/favicon-gray.jpg">
@@ -29,17 +29,17 @@
 						<span class="icon-bar"></span>
 					</button>
 					<div class="container-fluid">
-						<a href="../index.html">
+						<a href="../index.php">
 							<img src="../images/logo.jpg">
 						</a>
 					</div>
 				</div>
 				<div class="collapse navbar-collapse" id="myNavbar">
 					<ul class="nav navbar-nav navbar-right" id="navigation">
-						<li><a href="../index.html">Home</a></li>
-						<li class="current-menu-item"><a href="../work.html">Work</a></li>
-						<li><a href="../about.html">About</a></li>
-						<li><a href="../contact.html">Contact</a></li>
+						<li><a href="../index.php">Home</a></li>
+						<li class="current-menu-item"><a href="../work.php">Work</a></li>
+						<li><a href="../about.php">About</a></li>
+						<li><a href="../contact.php">Contact</a></li>
 					</ul>
 				</div>
 			</div>
@@ -48,42 +48,33 @@
 			<div class="container">
 				<hr><div class="row">
 					<div class="col-md-12">
-						<h1 class="navigation-title">PROJECT DAYLIGHT SAVING</h1>
+						<h1 class="navigation-title">FIGURE DRAWINGS</h1>
 					</div>
 				</div><hr>
 				<div class="row">
 					<div class="col-md-8">
-						<a href="../images/professional/daylight-savings-final-pg1.jpg" data-lightbox="roadtrip">
-							<div class="tile scale-anm">
-								<img class="nested-page-image" src="../images/professional/daylight-savings-final-pg1.jpg" alt="" />
+						<a href="../images/personal/sketches-final-compile-test-figure-sample_mini.jpg">
+							<div class="tile scale-anm sketches all">
+								<img class="nested-page-image" src="../images/personal/sketches-final-compile-test-figure-sample_mini.jpg" alt="" />
 							</div>
 						</a>
-						<a href="../images/professional/daylight-savings-final-pg2.jpg" data-lightbox="roadtrip">
-							<div class="tile scale-anm">
-								<img class="nested-page-image" src="../images/professional/daylight-savings-final-pg2.jpg" alt="" />
+						<a href="../images/personal/sketches-final-compile-test-newer-pg1_mini.jpg" data-lightbox="roadtrip">
+							<div class="tile scale-anm sketches all">
+								<img class="nested-page-image" src="../images/personal/sketches-final-compile-test-newer-pg1_mini.jpg" alt="" />
 							</div>
 						</a>
-						<a href="../images/professional/daylight-savings-final-pg3.jpg" data-lightbox="roadtrip">
-							<div class="tile scale-anm">
-								<img class="nested-page-image" src="../images/professional/daylight-savings-final-pg3.jpg" alt="" />
-							</div>
-						</a>
-						<a href="../images/professional/daylight-savings-final-pg4.jpg" data-lightbox="roadtrip">
-							<div class="tile scale-anm">
-								<img src="../images/professional/daylight-savings-final-pg4.jpg" alt="" />
+						<a href="../images/personal/sketches-final-compile-test-figures-ample-newer-enviro-sketches-pg2_mini.jpg" data-lightbox="roadtrip">
+							<div class="tile scale-anm sketches all">
+								<img src="../images/personal/sketches-final-compile-test-figures-ample-newer-enviro-sketches-pg2_mini.jpg" alt="" />
 							</div>
 						</a>
 					</div>
 					<div class="col-md-4">
 						<p class="description-title">
-							Boardgame Prototype
+							Figure Drawings, Character Concepts, and Environment Sketching
 						</p><br>
 						<p class="description">
-							Created game board prototype.<br><br>
-
-							Designed game's different characters.<br><br>
-
-							Shows initial sketches, symbol & typeface design, character sheet for selected character, and final.
+							Done in marker, pen, pastel pencil, charcoal, and digital.
 						</p>
 					</div>
 				</div><hr>
