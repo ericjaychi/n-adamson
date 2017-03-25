@@ -9,8 +9,6 @@
 		<!-- FAVICON -->
 		<link rel="icon" type="image/jpg" href="../images/favicon-gray.jpg">
 
-		<!-- TODO: Add different browser support. -->
-
 		<!-- CSS -->
 		<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.5/css/bootstrap.min.css" />
 
