@@ -67,28 +67,6 @@
 					</div>
 					<br>
 					<div class="col-md-6">
-						<?php
-							if(isset($_POST['submit'])){
-								/* TODO: Change this to client's email. */
-								$to = "ericjaychi@gmail.com";
-
-								$from = stripcslashes($_POST['email']);
-								$name = stripcslashes($_POST['name']);
-								$body = stripcslashes($_POST['message']);
-
-								$subject = "Someone Contacted You!";
-								$subject2 = "Copy of your message";
-								$message = $name . " wrote the following:" . "\n\n" . $body;
-								$message2 = "Here is a copy of your message " . $name . "\n\n" . $body;
-
-								$headers = "From:" . $from;
-								$headers2 = "From:" . $to;
-								mail($to, $subject, $message, $headers);
-								mail($from, $subject2, $message2, $headers2);
-
-								echo "Mail Sent. Thank you " . $name . ", we will contact you shortly.";
-							}
-						?>
 						<form action="" method="post">
 							<input type="text" class="validate-required" name="name" placeholder="Your Name" />
 							<input type="text" class="validate-required validate-email" name="email" placeholder="Your Email Address" />
