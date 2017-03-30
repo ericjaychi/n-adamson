@@ -14,6 +14,7 @@
 
 		<!-- Custom CSS -->
 		<link rel="stylesheet" type="text/css" href="css/style.css">
+		<link rel="stylesheet" type="text/css" href="css/lightbox.css">
 	</head>
 	<body>
 		<nav class="navbar navbar-default navigation">
@@ -43,10 +44,10 @@
 		<div class="main">
 			<div class="container">
 				<hr><div class="row">
-				<div class="col-md-12">
-					<h1 class="navigation-title">ABOUT ME</h1>
-				</div>
-			</div><hr>
+					<div class="col-md-12">
+						<h1 class="navigation-title">ABOUT ME</h1>
+					</div>
+				</div><hr>
 			</div>
 			<div class="container">
 				<div class="row">
