@@ -38,3 +38,21 @@ $(function() {
 	});
 
 });
+
+
+function validateForm() {
+	var name = document.forms["contactForm"]["name"].value;
+	var email = document.forms["contactForm"]["email"].value;
+	var message = document.forms["contactForm"]["message"].value;
+
+	if (name == "") {
+		alert("Please fill out the name.");
+		return false;
+	} else if (email == "") {
+		alert("Please fill out the email.");
+		return false;
+	} else if (message == "") {
+		alert("Please fill out the message section.");
+		return false;
+	}
+}
