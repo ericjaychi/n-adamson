@@ -67,11 +67,31 @@
 					</div>
 					<br>
 					<div class="col-md-6">
-						<form class="form-email" data-success="Thanks for your submission, we will be in touch shortly." data-error="Please fill all fields correctly.">
+						<?php
+							if(isset($_POST['submit'])){
+								$to = "ericjaychi@gmail.com"; // this is your Email address
+								$from = $_POST['email']; // this is the sender's Email address
+								$name = $_POST['name'];
+								$subject = "Form submission";
+								$subject2 = "Copy of your form submission";
+								$message = $name . " wrote the following:" . "\n\n" . $_POST['message'];
+								$message2 = "Here is a copy of your message " . $name . "\n\n" . $_POST['message'];
+
+								$headers = "From:" . $from;
+								$headers2 = "From:" . $to;
+								mail($to, $subject, $message, $headers);
+								mail($from, $subject2, $message2, $headers2); // sends a copy of the message to the sender
+
+
+								echo "Mail Sent. Thank you " . $name . ", we will contact you shortly.";
+								// You can also use header('Location: thank_you.php'); to redirect to another page.
+							}
+						?>
+						<form action="" method="post">
 							<input type="text" class="validate-required" name="name" placeholder="Your Name" />
 							<input type="text" class="validate-required validate-email" name="email" placeholder="Your Email Address" />
 							<textarea class="validate-textarea" name="message" rows="4" placeholder="Your Message"></textarea>
-							<input class="button" type="submit" value="Send Message" />
+							<input class="button" type="submit" name="submit" value="Submit" />
 						</form>
 					</div>
 				</div><hr>
