@@ -68,7 +68,7 @@
 					<br>
 					<div class="col-md-6">
 						<div id="formMessages"></div>
-						<form id="ajaxContact" name="contactForm" action="php/mail.php" method="post" onsubmit="validateForm();">
+						<form id="ajaxContact" name="contactForm" action="helpers/mail.php" method="post" onsubmit="validateForm();">
 							<input id="name" type="text" class="validate-required" name="name" placeholder="Your Name" />
 							<input id="email" type="text" class="validate-required validate-email" name="email" placeholder="Your Email Address" />
 							<textarea id="message" class="validate-textarea" name="message" rows="4" placeholder="Your Message"></textarea>
