@@ -67,10 +67,11 @@
 					</div>
 					<br>
 					<div class="col-md-6">
-						<form action="" method="post">
-							<input type="text" class="validate-required" name="name" placeholder="Your Name" />
-							<input type="text" class="validate-required validate-email" name="email" placeholder="Your Email Address" />
-							<textarea class="validate-textarea" name="message" rows="4" placeholder="Your Message"></textarea>
+						<div id="formMessages"></div>
+						<form id="ajaxContact" action="php/mail.php" method="post">
+							<input id="name" type="text" class="validate-required" name="name" placeholder="Your Name" />
+							<input id="email" type="text" class="validate-required validate-email" name="email" placeholder="Your Email Address" />
+							<textarea id="message" class="validate-textarea" name="message" rows="4" placeholder="Your Message"></textarea>
 							<input class="button" type="submit" name="submit" value="Submit" />
 						</form>
 					</div>
@@ -93,6 +94,7 @@
 		</div>
 
 		<script src="https://code.jquery.com/jquery-2.1.3.min.js"></script>
+		<script src="js/mailer.js"></script>
 		<script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/js/bootstrap.min.js"></script>
 	</body>
 </html>
