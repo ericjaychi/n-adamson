@@ -65,6 +65,14 @@
 				<div class="row">
 					<div class="col-md-12">
 						<div id="portfolio">
+							<a href="portfolio/project-water.php">
+								<div class="tile scale-anm professional all">
+									<img src="images/professional/project-water.jpg" alt=""/>
+									<div class="overlay">
+										<span class="text">PROJECT WATER</span>
+									</div>
+								</div>
+							</a>
 							<a href="portfolio/fandango-commission.php">
 								<div class="tile scale-anm professional all">
 									<img src="images/professional/wonka-final_mini.jpg" alt=""/>
