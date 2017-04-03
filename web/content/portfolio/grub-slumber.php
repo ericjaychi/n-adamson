@@ -14,6 +14,7 @@
 
 		<!-- Custom CSS -->
 		<link rel="stylesheet" type="text/css" href="../css/style.css">
+		<link rel="stylesheet" type="text/css" href="../css/lightbox.css">
 	</head>
 	<body>
 		<nav class="navbar navbar-default navigation">
