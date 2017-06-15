@@ -137,6 +137,14 @@
 									</div>
 								</div>
 							</a>
+							<a href="images/personal/rescue-of-the-shaman.jpg" data-lightbox="roadtrip">
+								<div class="tile scale-anm personal all">
+									<img src="images/personal/rescue-of-the-shaman.jpg" alt="" />
+									<div class="overlay">
+										<span class="text">RESCUE OF THE SHAMAN</span>
+									</div>
+								</div>
+							</a>
 							<a href="images/storyboards/newport-tempss-boards-pg1_mini.jpg" data-lightbox="roadtrip">
 								<div class="tile scale-anm storyboard all">
 									<img src="images/storyboards/newport-tempss-boards-pg1_mini.jpg" alt="" />
