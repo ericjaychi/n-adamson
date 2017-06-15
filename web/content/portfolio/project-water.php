@@ -70,6 +70,11 @@
 								<img src="../images/professional/project-water-4.jpg" alt="" />
 							</div>
 						</a>
+						<a href="../images/professional/project-water-5.jpg" data-lightbox="roadtrip">
+							<div class="tile scale-anm">
+								<img src="../images/professional/project-water-5.jpg" alt="" />
+							</div>
+						</a>
 					</div>
 					<div class="col-md-4">
 						<p class="description-title">
