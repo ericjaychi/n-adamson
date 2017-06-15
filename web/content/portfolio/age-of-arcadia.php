@@ -52,12 +52,12 @@
 					<div class="col-md-8">
 						<a href="../images/professional/vesperia-closeup-pg1.jpg" data-lightbox="roadtrip">
 							<div class="tile scale-anm">
-								<img src="../images/professional/vesperia-closeup-pg1.jpg" alt="" />
+								<img class="nested-page-image" src="../images/professional/vesperia-closeup-pg1.jpg" alt="" />
 							</div>
 						</a>
 						<a href="../images/professional/vesperia-closeup-pg2.jpg" data-lightbox="roadtrip">
 							<div class="tile scale-anm">
-								<img src="../images/professional/vesperia-closeup-pg2.jpg" alt="" />
+								<img class="nested-page-image" src="../images/professional/vesperia-closeup-pg2.jpg" alt="" />
 							</div>
 						</a>
 						<a href="../images/professional/vesperia-pg1.jpg" data-lightbox="roadtrip">

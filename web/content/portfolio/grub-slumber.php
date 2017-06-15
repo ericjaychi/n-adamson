@@ -52,7 +52,7 @@
 					<div class="col-md-8">
 						<a href="../images/personal/grub-slumber-port-book-settsud2.jpg" data-lightbox="roadtrip">
 							<div class="tile scale-anm personal all">
-								<img src="../images/personal/grub-slumber-port-book-settsud2.jpg" alt="" />
+								<img class="nested-page-image" src="../images/personal/grub-slumber-port-book-settsud2.jpg" alt="" />
 							</div>
 						</a>
 						<a href="../images/personal/grub-slumber-port-book-settsud1.jpg" data-lightbox="roadtrip">
@@ -82,7 +82,7 @@
 						</a>
 						<a href="../images/personal/grub-slumber-port-book-set-extras.jpg" data-lightbox="roadtrip">
 							<div class="tile scale-anm personal all">
-								<img class="nested-page-image" src="../images/personal/grub-slumber-port-book-set-extras.jpg" alt="" />
+								<img src="../images/personal/grub-slumber-port-book-set-extras.jpg" alt="" />
 							</div>
 						</a>
 					</div>

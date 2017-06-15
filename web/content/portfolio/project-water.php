@@ -57,17 +57,17 @@
 						</a>
 						<a href="../images/professional/project-water-2.jpg" data-lightbox="roadtrip">
 							<div class="tile scale-anm">
-								<img src="../images/professional/project-water-2.jpg" alt="" />
+								<img class="nested-page-image" src="../images/professional/project-water-2.jpg" alt="" />
 							</div>
 						</a>
 						<a href="../images/professional/project-water-3.jpg" data-lightbox="roadtrip">
 							<div class="tile scale-anm">
-								<img src="../images/professional/project-water-3.jpg" alt="" />
+								<img class="nested-page-image" src="../images/professional/project-water-3.jpg" alt="" />
 							</div>
 						</a>
 						<a href="../images/professional/project-water-4.jpg" data-lightbox="roadtrip">
 							<div class="tile scale-anm">
-								<img src="../images/professional/project-water-4.jpg" alt="" />
+								<img class="nested-page-image" src="../images/professional/project-water-4.jpg" alt="" />
 							</div>
 						</a>
 						<a href="../images/professional/project-water-5.jpg" data-lightbox="roadtrip">
