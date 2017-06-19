@@ -97,6 +97,14 @@
 									</div>
 								</div>
 							</a>
+							<a href="images/personal/cellphone.jpg" data-lightbox="roadtrip">
+								<div class="tile scale-anm personal all">
+									<img src="images/personal/cellphone.jpg" alt="" />
+									<div class="overlay">
+										<span class="text">THE MESSAGE</span>
+									</div>
+								</div>
+							</a>
 							<a href="portfolio/fault-city.php">
 								<div class="tile scale-anm personal all">
 									<img src="images/personal/fault-city.jpg" alt="" />
@@ -126,6 +134,14 @@
 									<img src="images/personal/bot-scene-compressed_mini.jpg" alt="" />
 									<div class="overlay">
 										<span class="text">CONFRONTATION</span>
+									</div>
+								</div>
+							</a>
+							<a href="images/personal/animation-background-style-original_mini.jpg" data-lightbox="roadtrip">
+								<div class="tile scale-anm personal all">
+									<img src="images/personal/animation-background-style-original_mini.jpg" alt="" />
+									<div class="overlay">
+										<span class="text">MORNING LIGHT</span>
 									</div>
 								</div>
 							</a>
