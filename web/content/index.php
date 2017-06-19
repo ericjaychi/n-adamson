@@ -91,7 +91,7 @@
 		<script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/js/bootstrap.min.js"></script>
 		<script>
 			$('.carousel').carousel({
-				interval: 3000
+				interval: 6000
 			});
 		</script>
 	</body>
