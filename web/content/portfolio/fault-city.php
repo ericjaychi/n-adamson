@@ -7,7 +7,7 @@
 		<title>Fault City | Nicole Adamson</title>
 
 		<!-- FAVICON -->
-		<link rel="icon" type="image/jpg" href="../images/favicon-gray.jpg">
+		<link rel="icon" type="image/jpg" href="http://res.cloudinary.com/dzf64w6kx/image/upload/v1498153885/n-adamson/logos/favicon-gray.jpg">
 
 		<!-- CSS -->
 		<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.5/css/bootstrap.min.css" />
@@ -27,7 +27,7 @@
 					</button>
 					<div class="container-fluid">
 						<a href="../index.php">
-							<img src="../images/logo.jpg">
+							<img src="http://res.cloudinary.com/dzf64w6kx/image/upload/v1498153886/n-adamson/logos/logo.jpg">
 						</a>
 					</div>
 				</div>
@@ -50,29 +50,29 @@
 				</div><hr>
 				<div class="row">
 					<div class="col-md-8">
-						<a href="../images/personal/fault-city.jpg" data-lightbox="roadtrip">
+						<a href="http://res.cloudinary.com/dzf64w6kx/image/upload/v1498153520/n-adamson/personal/fault-city.jpg" data-lightbox="roadtrip">
 							<div class="tile scale-anm">
-								<img class="nested-page-image" src="../images/personal/fault-city.jpg" alt="" />
+								<img class="nested-page-image" src="http://res.cloudinary.com/dzf64w6kx/image/upload/v1498153520/n-adamson/personal/fault-city.jpg" alt="" />
 							</div>
 						</a>
-						<a href="../images/personal/newport-temps-fault-city-pg1.jpg" data-lightbox="roadtrip">
+						<a href="http://res.cloudinary.com/dzf64w6kx/image/upload/v1498153523/n-adamson/personal/newport-temps-fault-city-pg1_mini.jpg" data-lightbox="roadtrip">
 							<div class="tile scale-anm">
-								<img class="nested-page-image" src="../images/personal/newport-temps-fault-city-pg1.jpg" alt="" />
+								<img class="nested-page-image" src="http://res.cloudinary.com/dzf64w6kx/image/upload/v1498153523/n-adamson/personal/newport-temps-fault-city-pg1_mini.jpg" alt="" />
 							</div>
 						</a>
-						<a href="../images/personal/newport-temps-fault-city-pg2.jpg" data-lightbox="roadtrip">
+						<a href="http://res.cloudinary.com/dzf64w6kx/image/upload/v1498153524/n-adamson/personal/newport-temps-fault-city-pg2_mini.jpg" data-lightbox="roadtrip">
 							<div class="tile scale-anm">
-								<img class="nested-page-image" src="../images/personal/newport-temps-fault-city-pg2.jpg" alt="" />
+								<img class="nested-page-image" src="http://res.cloudinary.com/dzf64w6kx/image/upload/v1498153524/n-adamson/personal/newport-temps-fault-city-pg2_mini.jpg" alt="" />
 							</div>
 						</a>
-						<a href="../images/personal/newport-temps-fault-city-pg3.jpg" data-lightbox="roadtrip">
+						<a href="http://res.cloudinary.com/dzf64w6kx/image/upload/v1498153525/n-adamson/personal/newport-temps-fault-city-pg3_mini.jpg" data-lightbox="roadtrip">
 							<div class="tile scale-anm">
-								<img class="nested-page-image" src="../images/personal/newport-temps-fault-city-pg3.jpg" alt="" />
+								<img class="nested-page-image" src="http://res.cloudinary.com/dzf64w6kx/image/upload/v1498153525/n-adamson/personal/newport-temps-fault-city-pg3_mini.jpg" alt="" />
 							</div>
 						</a>
-						<a href="../images/personal/newport-temps-fault-city-pg4.jpg" data-lightbox="roadtrip">
+						<a href="http://res.cloudinary.com/dzf64w6kx/image/upload/v1498153526/n-adamson/personal/newport-temps-fault-city-pg4_mini.jpg" data-lightbox="roadtrip">
 							<div class="tile scale-anm">
-								<img src="../images/personal/newport-temps-fault-city-pg4.jpg" alt="" />
+								<img src="http://res.cloudinary.com/dzf64w6kx/image/upload/v1498153526/n-adamson/personal/newport-temps-fault-city-pg4_mini.jpg" alt="" />
 							</div>
 						</a>
 					</div>

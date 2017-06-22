@@ -7,7 +7,7 @@
 		<title>Wonka | Nicole Adamson</title>
 
 		<!-- FAVICON -->
-		<link rel="icon" type="image/jpg" href="../images/favicon-gray.jpg">
+		<link rel="icon" type="image/jpg" href="http://res.cloudinary.com/dzf64w6kx/image/upload/v1498153885/n-adamson/logos/favicon-gray.jpg">
 
 		<!-- CSS -->
 		<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.5/css/bootstrap.min.css" />
@@ -27,7 +27,7 @@
 					</button>
 					<div class="container-fluid">
 						<a href="../index.php">
-							<img src="../images/logo.jpg">
+							<img src="http://res.cloudinary.com/dzf64w6kx/image/upload/v1498153886/n-adamson/logos/logo.jpg">
 						</a>
 					</div>
 				</div>
@@ -50,14 +50,14 @@
 				</div><hr>
 				<div class="row">
 					<div class="col-md-8">
-						<a href="../images/professional/wonka-final_mini.jpg" data-lightbox="roadtrip">
+						<a href="http://res.cloudinary.com/dzf64w6kx/image/upload/v1498152963/n-adamson/professional/wonka-final_mini.jpg" data-lightbox="roadtrip">
 							<div class="tile scale-anm">
-								<img class="nested-page-image" src="../images/professional/wonka-final_mini.jpg" alt="" />
+								<img class="nested-page-image" src="http://res.cloudinary.com/dzf64w6kx/image/upload/v1498152963/n-adamson/professional/wonka-final_mini.jpg" alt="" />
 							</div>
 						</a>
-						<a href="../images/professional/wonka-template.jpg" data-lightbox="roadtrip">
+						<a href="http://res.cloudinary.com/dzf64w6kx/image/upload/v1498152962/n-adamson/professional/wonka-template.jpg" data-lightbox="roadtrip">
 							<div class="tile scale-anm">
-								<img src="../images/professional/wonka-template.jpg" alt="" />
+								<img src="http://res.cloudinary.com/dzf64w6kx/image/upload/v1498152962/n-adamson/professional/wonka-template.jpg" alt="" />
 							</div>
 						</a>
 					</div>

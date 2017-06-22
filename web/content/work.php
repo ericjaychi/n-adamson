@@ -7,7 +7,7 @@
 		<title>Work | Nicole Adamson</title>
 
 		<!-- FAVICON -->
-		<link rel="icon" type="image/jpg" href="images/favicon-gray.jpg">
+		<link rel="icon" type="image/jpg" href="http://res.cloudinary.com/dzf64w6kx/image/upload/v1498153885/n-adamson/logos/favicon-gray.jpg">
 
 		<!-- CSS -->
 		<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.5/css/bootstrap.min.css" />
@@ -27,7 +27,7 @@
 					</button>
 					<div class="container-fluid">
 						<a href="index.php">
-							<img src="images/logo.jpg">
+							<img src="http://res.cloudinary.com/dzf64w6kx/image/upload/v1498153886/n-adamson/logos/logo.jpg">
 						</a>
 					</div>
 				</div>
@@ -67,7 +67,7 @@
 						<div id="portfolio">
 							<a href="portfolio/project-water.php">
 								<div class="tile scale-anm professional all">
-									<img src="images/professional/project-water.jpg" alt=""/>
+									<img src="http://res.cloudinary.com/dzf64w6kx/image/upload/v1498152963/n-adamson/professional/project-water.jpg" alt=""/>
 									<div class="overlay">
 										<span class="text">PROJECT WATER</span>
 									</div>
@@ -75,7 +75,7 @@
 							</a>
 							<a href="portfolio/fandango-commission.php">
 								<div class="tile scale-anm professional all">
-									<img src="images/professional/wonka-final_mini.jpg" alt=""/>
+									<img src="http://res.cloudinary.com/dzf64w6kx/image/upload/v1498152963/n-adamson/professional/wonka-final_mini.jpg" alt=""/>
 									<div class="overlay">
 										<span class="text">FANDANGO COMMISSION</span>
 									</div>
@@ -83,7 +83,7 @@
 							</a>
 							<a href="portfolio/age-of-arcadia.php">
 								<div class="tile scale-anm professional all">
-									<img src="images/professional/vesperia-pg1.jpg" alt="" />
+									<img src="http://res.cloudinary.com/dzf64w6kx/image/upload/v1498152966/n-adamson/professional/vesperia-pg1.jpg" alt="" />
 									<div class="overlay">
 										<span class="text">AGE OF ARCADIA™</span>
 									</div>
@@ -91,15 +91,15 @@
 							</a>
 							<a href="portfolio/daylight-saving.php">
 								<div class="tile scale-anm professional all">
-									<img src="images/professional/daylight-savings-final-pg1.jpg" alt="" />
+									<img src="http://res.cloudinary.com/dzf64w6kx/image/upload/v1498152962/n-adamson/professional/daylight-savings-final-pg1.jpg" alt="" />
 									<div class="overlay">
 										<span class="text">PROJECT DAYLIGHT SAVING</span>
 									</div>
 								</div>
 							</a>
-							<a href="images/personal/cellphone.jpg" data-lightbox="roadtrip">
+							<a href="http://res.cloudinary.com/dzf64w6kx/image/upload/v1498153520/n-adamson/personal/cellphone.jpg" data-lightbox="roadtrip">
 								<div class="tile scale-anm personal all">
-									<img src="images/personal/cellphone.jpg" alt="" />
+									<img src="http://res.cloudinary.com/dzf64w6kx/image/upload/v1498153520/n-adamson/personal/cellphone.jpg" alt="" />
 									<div class="overlay">
 										<span class="text">THE MESSAGE</span>
 									</div>
@@ -107,7 +107,7 @@
 							</a>
 							<a href="portfolio/fault-city.php">
 								<div class="tile scale-anm personal all">
-									<img src="images/personal/fault-city.jpg" alt="" />
+									<img src="http://res.cloudinary.com/dzf64w6kx/image/upload/v1498153520/n-adamson/personal/fault-city.jpg" alt="" />
 									<div class="overlay">
 										<span class="text">FAULT CITY</span>
 									</div>
@@ -115,55 +115,55 @@
 							</a>
 							<a href="portfolio/grub-slumber.php">
 								<div class="tile scale-anm personal all">
-									<img src="images/personal/grub-slumber-cover.jpg" alt="" />
+									<img src="http://res.cloudinary.com/dzf64w6kx/image/upload/v1498153521/n-adamson/personal/grub-slumber-cover.jpg" alt="" />
 									<div class="overlay">
 										<span class="text">GRUB SLUMBER</span>
 									</div>
 								</div>
 							</a>
-							<a href="images/personal/ramen-shop.jpg" data-lightbox="roadtrip">
+							<a href="http://res.cloudinary.com/dzf64w6kx/image/upload/v1498153526/n-adamson/personal/ramen-shop.jpg" data-lightbox="roadtrip">
 								<div class="tile scale-anm personal all">
-									<img src="images/personal/ramen-shop.jpg" alt="" />
+									<img src="http://res.cloudinary.com/dzf64w6kx/image/upload/v1498153526/n-adamson/personal/ramen-shop.jpg" alt="" />
 									<div class="overlay">
 										<span class="text">"OISHII DESU" RAMEN SHOP</span>
 									</div>
 								</div>
 							</a>
-							<a href="images/personal/bot-scene-compressed_mini.jpg" data-lightbox="roadtrip">
+							<a href="http://res.cloudinary.com/dzf64w6kx/image/upload/v1498153520/n-adamson/personal/bot-scene-compressed_mini.jpg" data-lightbox="roadtrip">
 								<div class="tile scale-anm personal all">
-									<img src="images/personal/bot-scene-compressed_mini.jpg" alt="" />
+									<img src="http://res.cloudinary.com/dzf64w6kx/image/upload/v1498153520/n-adamson/personal/bot-scene-compressed_mini.jpg" alt="" />
 									<div class="overlay">
 										<span class="text">CONFRONTATION</span>
 									</div>
 								</div>
 							</a>
-							<a href="images/personal/animation-background-style-original_mini.jpg" data-lightbox="roadtrip">
+							<a href="http://res.cloudinary.com/dzf64w6kx/image/upload/v1498153520/n-adamson/personal/animation-background-style-original_mini.jpg" data-lightbox="roadtrip">
 								<div class="tile scale-anm personal all">
-									<img src="images/personal/animation-background-style-original_mini.jpg" alt="" />
+									<img src="http://res.cloudinary.com/dzf64w6kx/image/upload/v1498153520/n-adamson/personal/animation-background-style-original_mini.jpg" alt="" />
 									<div class="overlay">
 										<span class="text">MORNING LIGHT</span>
 									</div>
 								</div>
 							</a>
-							<a href="images/personal/shadow.jpg" data-lightbox="roadtrip">
+							<a href="http://res.cloudinary.com/dzf64w6kx/image/upload/v1498153527/n-adamson/personal/shadow.jpg" data-lightbox="roadtrip">
 								<div class="tile scale-anm personal all">
-									<img src="images/personal/shadow.jpg" alt="" />
+									<img src="http://res.cloudinary.com/dzf64w6kx/image/upload/v1498153527/n-adamson/personal/shadow.jpg" alt="" />
 									<div class="overlay">
 										<span class="text">SHADOW</span>
 									</div>
 								</div>
 							</a>
-							<a href="images/personal/rescue-of-the-shaman.jpg" data-lightbox="roadtrip">
+							<a href="http://res.cloudinary.com/dzf64w6kx/image/upload/v1498153526/n-adamson/personal/rescue-of-the-shaman.jpg" data-lightbox="roadtrip">
 								<div class="tile scale-anm personal all">
-									<img src="images/personal/rescue-of-the-shaman.jpg" alt="" />
+									<img src="http://res.cloudinary.com/dzf64w6kx/image/upload/v1498153526/n-adamson/personal/rescue-of-the-shaman.jpg" alt="" />
 									<div class="overlay">
 										<span class="text">RESCUE OF THE SHAMAN</span>
 									</div>
 								</div>
 							</a>
-							<a href="images/storyboards/newport-tempss-boards-pg1_mini.jpg" data-lightbox="roadtrip">
+							<a href="http://res.cloudinary.com/dzf64w6kx/image/upload/v1498153774/n-adamson/storyboards/newport-tempss-boards-pg1_mini.jpg" data-lightbox="roadtrip">
 								<div class="tile scale-anm storyboard all">
-									<img src="images/storyboards/newport-tempss-boards-pg1_mini.jpg" alt="" />
+									<img src="http://res.cloudinary.com/dzf64w6kx/image/upload/v1498153774/n-adamson/storyboards/newport-tempss-boards-pg1_mini.jpg" alt="" />
 									<div class="overlay">
 										<span class="text">STORYBOARDS</span>
 									</div>
@@ -171,7 +171,7 @@
 							</a>
 							<a href="portfolio/figure-drawings.php">
 								<div class="tile scale-anm personal all">
-									<img src="images/personal/sketches-final-compile-test-figure-sample_mini.jpg" alt="" />
+									<img src="http://res.cloudinary.com/dzf64w6kx/image/upload/v1498153527/n-adamson/personal/sketches-final-compile-test-figure-sample_mini.jpg" alt="" />
 									<div class="overlay">
 										<span class="text">SKETCHES</span>
 									</div>

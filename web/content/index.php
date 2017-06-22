@@ -7,7 +7,7 @@
 		<title>Nicole Adamson</title>
 
 		<!-- FAVICON -->
-		<link rel="icon" type="image/jpg" href="images/favicon-gray.jpg">
+		<link rel="icon" type="image/jpg" href="http://res.cloudinary.com/dzf64w6kx/image/upload/v1498153885/n-adamson/logos/favicon-gray.jpg">
 
 		<!-- CSS -->
 		<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.5/css/bootstrap.min.css" />
@@ -27,7 +27,7 @@
 					</button>
 					<div class="container-fluid">
 						<a href="index.php">
-							<img src="images/logo.jpg">
+							<img src="http://res.cloudinary.com/dzf64w6kx/image/upload/v1498153886/n-adamson/logos/logo.jpg">
 						</a>
 					</div>
 				</div>
@@ -54,16 +54,16 @@
 							</ol>
 							<div class="carousel-inner">
 								<div class="item active">
-									<img class="d-block img-fluid main-image center-block" src="images/personal/fault-city.jpg">
+									<img class="d-block img-fluid main-image center-block" src="http://res.cloudinary.com/dzf64w6kx/image/upload/v1498153520/n-adamson/personal/fault-city.jpg">
 								</div>
 								<div class="item">
-									<img class="d-block img-fluid main-image center-block" src="images/professional/wonka-final_mini.jpg">
+									<img class="d-block img-fluid main-image center-block" src="http://res.cloudinary.com/dzf64w6kx/image/upload/v1498152963/n-adamson/professional/wonka-final_mini.jpg">
 								</div>
 								<div class="item">
-									<img class="d-block img-fluid main-image center-block" src="images/professional/vesperia-closeup-pg1.jpg">
+									<img class="d-block img-fluid main-image center-block" src="http://res.cloudinary.com/dzf64w6kx/image/upload/v1498152964/n-adamson/professional/vesperia-closeup-pg1.jpg">
 								</div>
 								<div class="item">
-									<img class="d-block img-fluid main-image center-block" src="images/personal/ramen-shop.jpg">
+									<img class="d-block img-fluid main-image center-block" src="http://res.cloudinary.com/dzf64w6kx/image/upload/v1498153526/n-adamson/personal/ramen-shop.jpg">
 								</div>
 							</div>
 							<a class="carousel-control left" href="#carousel" role="button" data-slide="prev"></a>
