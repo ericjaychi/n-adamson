@@ -76,11 +76,11 @@
 							Comic
 						</p><br>
 						<p class="description">
-							Consists of full-spread and large panel environments<br><br>
+							Consists of full-spread + large panel environments.<br><br>
 
-							Vesperia wide shot made of pages 1 & 2.<br><br>
+							Interior environments inside the castle.<br><br>
 
-							Shows initial sketches (made by 4DE's artists), linework, asset concepts, callouts, supplementary material, and final illustration.<br><br>
+							Shows initial sketches (made by 4DE's artists), linework, detail sketches, and final illustration.<br><br>
 
 							Ongoing project.
 						</p>
