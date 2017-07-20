@@ -50,14 +50,14 @@
 				</div><hr>
 				<div class="row">
 					<div class="col-md-8">
-						<a href="http://res.cloudinary.com/dzf64w6kx/image/upload/v1498153527/n-adamson/personal/sketches-final-compile-test-figure-sample_mini.jpg">
+						<a href="http://res.cloudinary.com/dzf64w6kx/image/upload/v1500529702/n-adamson/personal/sketches-body.jpg" data-lightbox="roadtrip">
 							<div class="tile scale-anm sketches all">
-								<img class="nested-page-image" src="http://res.cloudinary.com/dzf64w6kx/image/upload/v1498153527/n-adamson/personal/sketches-final-compile-test-figure-sample_mini.jpg" alt="" />
+								<img class="nested-page-image" src="http://res.cloudinary.com/dzf64w6kx/image/upload/v1500529702/n-adamson/personal/sketches-body.jpg" alt="" />
 							</div>
 						</a>
-						<a href="http://res.cloudinary.com/dzf64w6kx/image/upload/v1498153528/n-adamson/personal/sketches-final-compile-test-newer-pg1_mini.jpg" data-lightbox="roadtrip">
+						<a href="http://res.cloudinary.com/dzf64w6kx/image/upload/v1500529703/n-adamson/personal/sketches-characters.jpg" data-lightbox="roadtrip">
 							<div class="tile scale-anm sketches all">
-								<img class="nested-page-image" src="http://res.cloudinary.com/dzf64w6kx/image/upload/v1498153528/n-adamson/personal/sketches-final-compile-test-newer-pg1_mini.jpg" alt="" />
+								<img class="nested-page-image" src="http://res.cloudinary.com/dzf64w6kx/image/upload/v1500529703/n-adamson/personal/sketches-characters.jpg" alt="" />
 							</div>
 						</a>
 						<a href="http://res.cloudinary.com/dzf64w6kx/image/upload/v1498153527/n-adamson/personal/sketches-final-compile-test-figures-ample-newer-enviro-sketches-pg2_mini.jpg" data-lightbox="roadtrip">

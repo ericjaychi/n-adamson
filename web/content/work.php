@@ -203,7 +203,7 @@
 							</a>
 							<a href="portfolio/figure-drawings.php">
 								<div class="tile scale-anm personal all">
-									<img src="http://res.cloudinary.com/dzf64w6kx/image/upload/v1498153527/n-adamson/personal/sketches-final-compile-test-figure-sample_mini.jpg" alt="" />
+									<img src="http://res.cloudinary.com/dzf64w6kx/image/upload/v1500529702/n-adamson/personal/sketches-body.jpg" alt="" />
 									<div class="overlay">
 										<span class="text">SKETCHES</span>
 									</div>
