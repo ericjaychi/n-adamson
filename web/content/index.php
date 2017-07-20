@@ -54,7 +54,7 @@
 							</ol>
 							<div class="carousel-inner">
 								<div class="item active">
-									<img class="d-block img-fluid main-image center-block" src="http://res.cloudinary.com/dzf64w6kx/image/upload/v1498153520/n-adamson/personal/fault-city.jpg">
+									<img class="d-block img-fluid main-image center-block" src="http://res.cloudinary.com/dzf64w6kx/image/upload/v1500508393/n-adamson/professional/project-water-final.jpg">
 								</div>
 								<div class="item">
 									<img class="d-block img-fluid main-image center-block" src="http://res.cloudinary.com/dzf64w6kx/image/upload/v1498152963/n-adamson/professional/wonka-final_mini.jpg">
