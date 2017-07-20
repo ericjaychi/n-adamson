@@ -65,6 +65,14 @@
 				<div class="row">
 					<div class="col-md-12">
 						<div id="portfolio">
+							<a href="portfolio/project-water-ii.php">
+								<div class="tile scale-anm professional all">
+									<img src="http://res.cloudinary.com/dzf64w6kx/image/upload/v1500508393/n-adamson/professional/project-water-final.jpg" alt=""/>
+									<div class="overlay">
+										<span class="text">PROJECT WATER PART II</span>
+									</div>
+								</div>
+							</a>
 							<a href="portfolio/project-water.php">
 								<div class="tile scale-anm professional all">
 									<img src="http://res.cloudinary.com/dzf64w6kx/image/upload/v1498152963/n-adamson/professional/project-water.jpg" alt=""/>
