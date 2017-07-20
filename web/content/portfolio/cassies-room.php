@@ -4,7 +4,7 @@
 		<meta charset="UTF-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-		<title>Age of Arcadia Part II™ | Nicole Adamson</title>
+		<title>Cassie's Room | Nicole Adamson</title>
 
 		<!-- FAVICON -->
 		<link rel="icon" type="image/jpg" href="http://res.cloudinary.com/dzf64w6kx/image/upload/v1498153885/n-adamson/logos/favicon-gray.jpg">
@@ -45,7 +45,7 @@
 			<div class="container">
 				<hr><div class="row">
 					<div class="col-md-12">
-						<h1 class="navigation-title">AGE OF ARCADIA PART II™</h1>
+						<h1 class="navigation-title">CASSIE'S ROOM</h1>
 					</div>
 				</div><hr>
 				<div class="row">
