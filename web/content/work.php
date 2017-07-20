@@ -93,7 +93,7 @@
 								<div class="tile scale-anm professional all">
 									<img src="http://res.cloudinary.com/dzf64w6kx/image/upload/v1498152964/n-adamson/professional/vesperia-closeup-pg1.jpg" alt="" />
 									<div class="overlay">
-										<span class="text">VESPERIA CLOSE UP (AGE OF ARCADIA™)</span>
+										<span class="text">VESPERIA CLOSE UP <br><span class="inner">(AGE OF ARCADIA™)</span></span>
 									</div>
 								</div>
 							</a>
@@ -101,7 +101,7 @@
 								<div class="tile scale-anm professional all">
 									<img src="http://res.cloudinary.com/dzf64w6kx/image/upload/v1498152966/n-adamson/professional/vesperia-pg1.jpg" alt="" />
 									<div class="overlay">
-										<span class="text">VESPERIA WIDE SHOT (AGE OF ARCADIA™)</span>
+										<span class="text">VESPERIA WIDE SHOT <br><span class="inner">(AGE OF ARCADIA™)</span></span>
 									</div>
 								</div>
 							</a>
