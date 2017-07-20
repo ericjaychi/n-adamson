@@ -113,6 +113,14 @@
 									</div>
 								</div>
 							</a>
+							<a href="http://res.cloudinary.com/dzf64w6kx/image/upload/v1500508415/n-adamson/personal/fourth-of-july.jpg" data-lightbox="roadtrip">
+								<div class="tile scale-anm personal all">
+									<img src="http://res.cloudinary.com/dzf64w6kx/image/upload/v1500508415/n-adamson/personal/fourth-of-july.jpg" alt="" />
+									<div class="overlay">
+										<span class="text">4TH OF JULY</span>
+									</div>
+								</div>
+							</a>
 							<a href="portfolio/grub-slumber.php">
 								<div class="tile scale-anm personal all">
 									<img src="http://res.cloudinary.com/dzf64w6kx/image/upload/v1498153521/n-adamson/personal/grub-slumber-cover.jpg" alt="" />
