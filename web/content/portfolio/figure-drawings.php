@@ -55,9 +55,9 @@
 								<img class="nested-page-image" src="http://res.cloudinary.com/dzf64w6kx/image/upload/v1500529702/n-adamson/personal/sketches-body.jpg" alt="" />
 							</div>
 						</a>
-						<a href="http://res.cloudinary.com/dzf64w6kx/image/upload/v1500529703/n-adamson/personal/sketches-characters.jpg" data-lightbox="roadtrip">
+						<a href="http://res.cloudinary.com/dzf64w6kx/image/upload/v1500652723/n-adamson/personal/sketches-final.jpg" data-lightbox="roadtrip">
 							<div class="tile scale-anm sketches all">
-								<img src="http://res.cloudinary.com/dzf64w6kx/image/upload/v1500529703/n-adamson/personal/sketches-characters.jpg" alt="" />
+								<img src="http://res.cloudinary.com/dzf64w6kx/image/upload/v1500652723/n-adamson/personal/sketches-final.jpg" alt="" />
 							</div>
 						</a>
 					</div>
