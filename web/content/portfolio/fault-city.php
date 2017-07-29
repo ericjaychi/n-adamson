@@ -50,9 +50,9 @@
 				</div><hr>
 				<div class="row">
 					<div class="col-md-8">
-						<a href="http://res.cloudinary.com/dzf64w6kx/image/upload/v1498153520/n-adamson/personal/fault-city.jpg" data-lightbox="roadtrip">
+						<a href="http://res.cloudinary.com/dzf64w6kx/image/upload/v1501285088/n-adamson/personal/fault-city-new.jpg" data-lightbox="roadtrip">
 							<div class="tile scale-anm">
-								<img class="nested-page-image" src="http://res.cloudinary.com/dzf64w6kx/image/upload/v1498153520/n-adamson/personal/fault-city.jpg" alt="" />
+								<img class="nested-page-image" src="http://res.cloudinary.com/dzf64w6kx/image/upload/v1501285088/n-adamson/personal/fault-city-new.jpg" alt="" />
 							</div>
 						</a>
 						<a href="http://res.cloudinary.com/dzf64w6kx/image/upload/v1498153523/n-adamson/personal/newport-temps-fault-city-pg1_mini.jpg" data-lightbox="roadtrip">

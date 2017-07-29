@@ -123,7 +123,7 @@
 							</a>
 							<a href="portfolio/fault-city.php">
 								<div class="tile scale-anm personal all">
-									<img src="http://res.cloudinary.com/dzf64w6kx/image/upload/v1498153520/n-adamson/personal/fault-city.jpg" alt="" />
+									<img src="http://res.cloudinary.com/dzf64w6kx/image/upload/v1501285088/n-adamson/personal/fault-city-new.jpg" alt="" />
 									<div class="overlay">
 										<span class="text">FAULT CITY</span>
 									</div>
@@ -134,6 +134,14 @@
 									<img src="http://res.cloudinary.com/dzf64w6kx/image/upload/v1498675724/n-adamson/professional/age-of-arcadia-part-ii-1.jpg" alt="" />
 									<div class="overlay">
 										<span class="text">CASSIE'S ROOM</span>
+									</div>
+								</div>
+							</a>
+							<a href="http://res.cloudinary.com/dzf64w6kx/image/upload/v1501285373/n-adamson/personal/ramen-shop-2.jpg" data-lightbox="roadtrip">
+								<div class="tile scale-anm personal all">
+									<img src="http://res.cloudinary.com/dzf64w6kx/image/upload/v1501285373/n-adamson/personal/ramen-shop-2.jpg" alt="" />
+									<div class="overlay">
+										<span class="text">"OISHII DESU" RAMEN SHOP</span>
 									</div>
 								</div>
 							</a>
@@ -153,17 +161,17 @@
 									</div>
 								</div>
 							</a>
-							<a href="http://res.cloudinary.com/dzf64w6kx/image/upload/v1498153526/n-adamson/personal/ramen-shop.jpg" data-lightbox="roadtrip">
+							<a href="http://res.cloudinary.com/dzf64w6kx/image/upload/v1498153520/n-adamson/personal/animation-background-style-original_mini.jpg" data-lightbox="roadtrip">
 								<div class="tile scale-anm personal all">
-									<img src="http://res.cloudinary.com/dzf64w6kx/image/upload/v1498153526/n-adamson/personal/ramen-shop.jpg" alt="" />
+									<img src="http://res.cloudinary.com/dzf64w6kx/image/upload/v1498153520/n-adamson/personal/animation-background-style-original_mini.jpg" alt="" />
 									<div class="overlay">
-										<span class="text">"OISHII DESU" RAMEN SHOP</span>
+										<span class="text">MORNING LIGHT</span>
 									</div>
 								</div>
 							</a>
-							<a href="http://res.cloudinary.com/dzf64w6kx/image/upload/v1498153520/n-adamson/personal/bot-scene-compressed_mini.jpg" data-lightbox="roadtrip">
+							<a href="http://res.cloudinary.com/dzf64w6kx/image/upload/v1501285318/n-adamson/personal/bot-scene.jpg" data-lightbox="roadtrip">
 								<div class="tile scale-anm personal all">
-									<img src="http://res.cloudinary.com/dzf64w6kx/image/upload/v1498153520/n-adamson/personal/bot-scene-compressed_mini.jpg" alt="" />
+									<img src="http://res.cloudinary.com/dzf64w6kx/image/upload/v1501285318/n-adamson/personal/bot-scene.jpg" alt="" />
 									<div class="overlay">
 										<span class="text">CONFRONTATION</span>
 									</div>
@@ -174,14 +182,6 @@
 									<img src="http://res.cloudinary.com/dzf64w6kx/image/upload/v1500652852/n-adamson/personal/arrivial.jpg" alt="" />
 									<div class="overlay">
 										<span class="text">ARRIVAL</span>
-									</div>
-								</div>
-							</a>
-							<a href="http://res.cloudinary.com/dzf64w6kx/image/upload/v1498153520/n-adamson/personal/animation-background-style-original_mini.jpg" data-lightbox="roadtrip">
-								<div class="tile scale-anm personal all">
-									<img src="http://res.cloudinary.com/dzf64w6kx/image/upload/v1498153520/n-adamson/personal/animation-background-style-original_mini.jpg" alt="" />
-									<div class="overlay">
-										<span class="text">MORNING LIGHT</span>
 									</div>
 								</div>
 							</a>
