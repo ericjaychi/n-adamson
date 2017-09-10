@@ -185,6 +185,22 @@
 									</div>
 								</div>
 							</a>
+							<a href="http://res.cloudinary.com/dzf64w6kx/image/upload/v1501285459/n-adamson/personal/sketches-final-2.jpg" data-lightbox="roadtrip">
+								<div class="tile scale-anm personal all">
+									<img src="http://res.cloudinary.com/dzf64w6kx/image/upload/v1501285459/n-adamson/personal/sketches-final-2.jpg" alt="" />
+									<div class="overlay">
+										<span class="text">CHARACTER SKETCHES</span>
+									</div>
+								</div>
+							</a>
+							<a href="http://res.cloudinary.com/dzf64w6kx/image/upload/v1500529702/n-adamson/personal/sketches-body.jpg" data-lightbox="roadtrip">
+								<div class="tile scale-anm personal all">
+									<img src="http://res.cloudinary.com/dzf64w6kx/image/upload/v1500529702/n-adamson/personal/sketches-body.jpg" alt="" />
+									<div class="overlay">
+										<span class="text">FIGURE/OBSERVATIONAL DRAWINGS</span>
+									</div>
+								</div>
+							</a>
 							<a href="http://res.cloudinary.com/dzf64w6kx/image/upload/v1498153527/n-adamson/personal/shadow.jpg" data-lightbox="roadtrip">
 								<div class="tile scale-anm personal all">
 									<img src="http://res.cloudinary.com/dzf64w6kx/image/upload/v1498153527/n-adamson/personal/shadow.jpg" alt="" />
@@ -206,14 +222,6 @@
 									<img src="http://res.cloudinary.com/dzf64w6kx/image/upload/v1498153774/n-adamson/storyboards/newport-tempss-boards-pg1_mini.jpg" alt="" />
 									<div class="overlay">
 										<span class="text">STORYBOARDS</span>
-									</div>
-								</div>
-							</a>
-							<a href="portfolio/figure-drawings.php">
-								<div class="tile scale-anm personal all">
-									<img src="http://res.cloudinary.com/dzf64w6kx/image/upload/v1500529702/n-adamson/personal/sketches-body.jpg" alt="" />
-									<div class="overlay">
-										<span class="text">SKETCHES</span>
 									</div>
 								</div>
 							</a>
