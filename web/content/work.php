@@ -129,11 +129,11 @@
 									</div>
 								</div>
 							</a>
-							<a href="portfolio/cassies-room.php">
+							<a href="portfolio/vesperia-interiors.php">
 								<div class="tile scale-anm professional all">
 									<img src="http://res.cloudinary.com/dzf64w6kx/image/upload/v1498675724/n-adamson/professional/age-of-arcadia-part-ii-1.jpg" alt="" />
 									<div class="overlay">
-										<span class="text">CASSIE'S ROOM</span>
+										<span class="text">VESPERIA INTERIORS<br><span class="inner">(AGE OF ARCADIA™)</span></span>
 									</div>
 								</div>
 							</a>
