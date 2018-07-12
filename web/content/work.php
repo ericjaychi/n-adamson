@@ -81,22 +81,16 @@
 									</div>
 								</div>
 							</a>
-							<a href="portfolio/fandango-commission.php">
-								<div class="tile scale-anm professional all">
-									<img src="http://res.cloudinary.com/dzf64w6kx/image/upload/v1498152963/n-adamson/professional/wonka-final_mini.jpg" alt=""/>
-									<div class="overlay">
-										<span class="text">FANDANGO COMMISSION</span>
-									</div>
-								</div>
-							</a>
 							<a href="portfolio/vesperia-close.php">
 								<div class="tile scale-anm professional all">
 									<img src="http://res.cloudinary.com/dzf64w6kx/image/upload/v1498152964/n-adamson/professional/vesperia-closeup-pg1.jpg" alt="" />
 									<div class="overlay">
+										<!-- TODO: Rename VESPERIA CLOSE UP to VESPERIA. -->
 										<span class="text">VESPERIA CLOSE UP <br><span class="inner">(AGE OF ARCADIA™)</span></span>
 									</div>
 								</div>
 							</a>
+							<!-- TODO: Merge VESPERIA WIDE SHOT into VESPERIA CLOSE UP. -->
 							<a href="portfolio/vesperia-wide.php">
 								<div class="tile scale-anm professional all">
 									<img src="http://res.cloudinary.com/dzf64w6kx/image/upload/v1498152966/n-adamson/professional/vesperia-pg1.jpg" alt="" />
@@ -110,14 +104,6 @@
 									<img src="http://res.cloudinary.com/dzf64w6kx/image/upload/v1498152962/n-adamson/professional/daylight-savings-final-pg1.jpg" alt="" />
 									<div class="overlay">
 										<span class="text">PROJECT DAYLIGHT SAVING</span>
-									</div>
-								</div>
-							</a>
-							<a href="http://res.cloudinary.com/dzf64w6kx/image/upload/v1498153520/n-adamson/personal/cellphone.jpg" data-lightbox="roadtrip">
-								<div class="tile scale-anm personal all">
-									<img src="http://res.cloudinary.com/dzf64w6kx/image/upload/v1498153520/n-adamson/personal/cellphone.jpg" alt="" />
-									<div class="overlay">
-										<span class="text">THE MESSAGE</span>
 									</div>
 								</div>
 							</a>
@@ -150,38 +136,6 @@
 									<img src="http://res.cloudinary.com/dzf64w6kx/image/upload/v1500508415/n-adamson/personal/fourth-of-july.jpg" alt="" />
 									<div class="overlay">
 										<span class="text">4TH OF JULY</span>
-									</div>
-								</div>
-							</a>
-							<a href="portfolio/grub-slumber.php">
-								<div class="tile scale-anm personal all">
-									<img src="http://res.cloudinary.com/dzf64w6kx/image/upload/v1498153521/n-adamson/personal/grub-slumber-cover.jpg" alt="" />
-									<div class="overlay">
-										<span class="text">GRUB SLUMBER</span>
-									</div>
-								</div>
-							</a>
-							<a href="http://res.cloudinary.com/dzf64w6kx/image/upload/v1498153520/n-adamson/personal/animation-background-style-original_mini.jpg" data-lightbox="roadtrip">
-								<div class="tile scale-anm personal all">
-									<img src="http://res.cloudinary.com/dzf64w6kx/image/upload/v1498153520/n-adamson/personal/animation-background-style-original_mini.jpg" alt="" />
-									<div class="overlay">
-										<span class="text">MORNING LIGHT</span>
-									</div>
-								</div>
-							</a>
-							<a href="http://res.cloudinary.com/dzf64w6kx/image/upload/v1501285318/n-adamson/personal/bot-scene.jpg" data-lightbox="roadtrip">
-								<div class="tile scale-anm personal all">
-									<img src="http://res.cloudinary.com/dzf64w6kx/image/upload/v1501285318/n-adamson/personal/bot-scene.jpg" alt="" />
-									<div class="overlay">
-										<span class="text">CONFRONTATION</span>
-									</div>
-								</div>
-							</a>
-							<a href="http://res.cloudinary.com/dzf64w6kx/image/upload/v1500652852/n-adamson/personal/arrivial.jpg" data-lightbox="roadtrip">
-								<div class="tile scale-anm personal all">
-									<img src="http://res.cloudinary.com/dzf64w6kx/image/upload/v1500652852/n-adamson/personal/arrivial.jpg" alt="" />
-									<div class="overlay">
-										<span class="text">ARRIVAL</span>
 									</div>
 								</div>
 							</a>
