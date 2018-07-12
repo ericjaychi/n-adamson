@@ -70,7 +70,7 @@
 						</div>
 					</div>
 					<div class="col-md-12">
-						<p class="copyright">© 2017 NICOLE ADAMSON. ANY DISTRIBUTION OR ALTERATIONS OF ANY IMAGE IS PROHIBITED WITHOUT PERMISSION.</p>
+						<p class="copyright">© 2018 NICOLE ADAMSON. ANY DISTRIBUTION OR ALTERATIONS OF ANY IMAGE IS PROHIBITED WITHOUT PERMISSION.</p>
 					</div>
 				</div>
 			</div>
