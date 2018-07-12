@@ -4,7 +4,7 @@
 		<meta charset="UTF-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-		<title>Vesperia Close Up (Age of Arcadia™) | Nicole Adamson</title>
+		<title>Vesperia (Age of Arcadia™) | Nicole Adamson</title>
 
 		<!-- FAVICON -->
 		<link rel="icon" type="image/jpg" href="http://res.cloudinary.com/dzf64w6kx/image/upload/v1498153885/n-adamson/logos/favicon-gray.jpg">
@@ -45,7 +45,7 @@
 			<div class="container">
 				<hr><div class="row">
 					<div class="col-md-12">
-						<h1 class="navigation-title">VESPERIA CLOSE UP (AGE OF ARCADIA™)</h1>
+						<h1 class="navigation-title">VESPERIA (AGE OF ARCADIA™)</h1>
 					</div>
 				</div><hr>
 				<div class="row">
@@ -58,6 +58,26 @@
 						<a href="http://res.cloudinary.com/dzf64w6kx/image/upload/v1498152965/n-adamson/professional/vesperia-closeup-pg2.jpg" data-lightbox="roadtrip">
 							<div class="tile scale-anm">
 								<img src="http://res.cloudinary.com/dzf64w6kx/image/upload/v1498152965/n-adamson/professional/vesperia-closeup-pg2.jpg" alt="" />
+							</div>
+						</a>
+						<a href="http://res.cloudinary.com/dzf64w6kx/image/upload/v1498152966/n-adamson/professional/vesperia-pg1.jpg" data-lightbox="roadtrip">
+							<div class="tile scale-anm">
+								<img class="nested-page-image" src="http://res.cloudinary.com/dzf64w6kx/image/upload/v1498152966/n-adamson/professional/vesperia-pg1.jpg" alt="" />
+							</div>
+						</a>
+						<a href="http://res.cloudinary.com/dzf64w6kx/image/upload/v1498152966/n-adamson/professional/vesperia-pg2.jpg" data-lightbox="roadtrip">
+							<div class="tile scale-anm">
+								<img class="nested-page-image" src="http://res.cloudinary.com/dzf64w6kx/image/upload/v1498152966/n-adamson/professional/vesperia-pg2.jpg" alt="" />
+							</div>
+						</a>
+						<a href="http://res.cloudinary.com/dzf64w6kx/image/upload/v1498152966/n-adamson/professional/vesperia-pg3.jpg" data-lightbox="roadtrip">
+							<div class="tile scale-anm">
+								<img class="nested-page-image" src="http://res.cloudinary.com/dzf64w6kx/image/upload/v1498152966/n-adamson/professional/vesperia-pg3.jpg" alt="" />
+							</div>
+						</a>
+						<a href="http://res.cloudinary.com/dzf64w6kx/image/upload/v1498152967/n-adamson/professional/vesperia-pg4.jpg" data-lightbox="roadtrip">
+							<div class="tile scale-anm">
+								<img src="http://res.cloudinary.com/dzf64w6kx/image/upload/v1498152967/n-adamson/professional/vesperia-pg4.jpg" alt="" />
 							</div>
 						</a>
 					</div>
