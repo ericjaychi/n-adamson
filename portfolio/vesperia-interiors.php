@@ -50,6 +50,16 @@
 				</div><hr>
 				<div class="row">
 					<div class="col-md-8">
+						<a href="https://res.cloudinary.com/dzf64w6kx/image/upload/v1531967224/n-adamson/professional/cassies-room.jpg" data-lightbox="roadtrip">
+							<div class="tile scale-anm">
+								<img class="nested-page-image" src="https://res.cloudinary.com/dzf64w6kx/image/upload/v1531967224/n-adamson/professional/cassies-room.jpg" alt="" />
+							</div>
+						</a>
+						<a href="https://res.cloudinary.com/dzf64w6kx/image/upload/v1531967224/n-adamson/professional/cassies-room-linework.jpg" data-lightbox="roadtrip">
+							<div class="tile scale-anm">
+								<img class="nested-page-image" src="https://res.cloudinary.com/dzf64w6kx/image/upload/v1531967224/n-adamson/professional/cassies-room-linework.jpg" alt="" />
+							</div>
+						</a>
 						<a href="http://res.cloudinary.com/dzf64w6kx/image/upload/v1498675724/n-adamson/professional/age-of-arcadia-part-ii-3.jpg" data-lightbox="roadtrip">
 							<div class="tile scale-anm">
 								<img class="nested-page-image" src="http://res.cloudinary.com/dzf64w6kx/image/upload/v1498675724/n-adamson/professional/age-of-arcadia-part-ii-3.jpg" alt="" />
@@ -58,11 +68,6 @@
 						<a href="http://res.cloudinary.com/dzf64w6kx/image/upload/v1498675724/n-adamson/professional/age-of-arcadia-part-ii-4.jpg" data-lightbox="roadtrip">
 							<div class="tile scale-anm">
 								<img class="nested-page-image" src="http://res.cloudinary.com/dzf64w6kx/image/upload/v1498675724/n-adamson/professional/age-of-arcadia-part-ii-4.jpg" alt="" />
-							</div>
-						</a>
-						<a href="http://res.cloudinary.com/dzf64w6kx/image/upload/v1498675724/n-adamson/professional/age-of-arcadia-part-ii-1.jpg" data-lightbox="roadtrip">
-							<div class="tile scale-anm">
-								<img class="nested-page-image" src="http://res.cloudinary.com/dzf64w6kx/image/upload/v1498675724/n-adamson/professional/age-of-arcadia-part-ii-1.jpg" alt="" />
 							</div>
 						</a>
 						<a href="http://res.cloudinary.com/dzf64w6kx/image/upload/v1498675724/n-adamson/professional/age-of-arcadia-part-ii-2.jpg" data-lightbox="roadtrip">

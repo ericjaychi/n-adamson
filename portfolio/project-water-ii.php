@@ -50,9 +50,9 @@
 				</div><hr>
 				<div class="row">
 					<div class="col-md-8">
-						<a href="http://res.cloudinary.com/dzf64w6kx/image/upload/v1500508393/n-adamson/professional/project-water-final.jpg" data-lightbox="roadtrip">
+						<a href="https://res.cloudinary.com/dzf64w6kx/image/upload/v1531967225/n-adamson/professional/project-water-final-2.jpg" data-lightbox="roadtrip">
 							<div class="tile scale-anm">
-								<img class="nested-page-image" src="http://res.cloudinary.com/dzf64w6kx/image/upload/v1500508393/n-adamson/professional/project-water-final.jpg" alt="" />
+								<img class="nested-page-image" src="https://res.cloudinary.com/dzf64w6kx/image/upload/v1531967225/n-adamson/professional/project-water-final-2.jpg" alt="" />
 							</div>
 						</a>
 						<a href="http://res.cloudinary.com/dzf64w6kx/image/upload/v1500508393/n-adamson/professional/project-water-6.jpg" data-lightbox="roadtrip">

@@ -65,9 +65,17 @@
 				<div class="row">
 					<div class="col-md-12">
 						<div id="portfolio">
+							<a href="https://res.cloudinary.com/dzf64w6kx/image/upload/v1531967209/n-adamson/personal/noxs-mind.jpg" data-lightbox="roadtrip">
+								<div class="tile scale-anm personal all">
+									<img src="https://res.cloudinary.com/dzf64w6kx/image/upload/v1531967209/n-adamson/personal/noxs-mind.jpg" alt="" />
+									<div class="overlay">
+										<span class="text">NOX'S MIND - THE FURNISHED CITY</span>
+									</div>
+								</div>
+							</a>
 							<a href="portfolio/project-water-ii.php">
 								<div class="tile scale-anm professional all">
-									<img src="http://res.cloudinary.com/dzf64w6kx/image/upload/v1500508393/n-adamson/professional/project-water-final.jpg" alt=""/>
+									<img src="https://res.cloudinary.com/dzf64w6kx/image/upload/v1531967225/n-adamson/professional/project-water-final-2.jpg" alt=""/>
 									<div class="overlay">
 										<span class="text">PROJECT WATER PART II</span>
 									</div>
@@ -75,7 +83,7 @@
 							</a>
 							<a href="portfolio/project-water.php">
 								<div class="tile scale-anm professional all">
-									<img src="http://res.cloudinary.com/dzf64w6kx/image/upload/v1500652541/n-adamson/professional/project-water.jpg" alt=""/>
+									<img src="https://res.cloudinary.com/dzf64w6kx/image/upload/v1531967225/n-adamson/professional/project-water-white-border.jpg" alt=""/>
 									<div class="overlay">
 										<span class="text">PROJECT WATER</span>
 									</div>
@@ -113,6 +121,14 @@
 									</div>
 								</div>
 							</a>
+							<a href="portfolio/vesperia-interiors.php">
+								<div class="tile scale-anm professional all">
+									<img src="https://res.cloudinary.com/dzf64w6kx/image/upload/v1531967224/n-adamson/professional/cassies-room.jpg" alt="" />
+									<div class="overlay">
+										<span class="text">VESPERIA INTERIORS<br><span class="inner">(AGE OF ARCADIA™)</span></span>
+									</div>
+								</div>
+							</a>
 							<a href="http://res.cloudinary.com/dzf64w6kx/image/upload/v1500508415/n-adamson/personal/fourth-of-july.jpg" data-lightbox="roadtrip">
 								<div class="tile scale-anm personal all">
 									<img src="http://res.cloudinary.com/dzf64w6kx/image/upload/v1500508415/n-adamson/personal/fourth-of-july.jpg" alt="" />
@@ -126,6 +142,14 @@
 									<img src="http://res.cloudinary.com/dzf64w6kx/image/upload/v1501285459/n-adamson/personal/sketches-final-2.jpg" alt="" />
 									<div class="overlay">
 										<span class="text">CHARACTER SKETCHES</span>
+									</div>
+								</div>
+							</a>
+							<a href="https://res.cloudinary.com/dzf64w6kx/image/upload/v1531967209/n-adamson/personal/umbrella-store.jpg" data-lightbox="roadtrip">
+								<div class="tile scale-anm personal all">
+									<img src="https://res.cloudinary.com/dzf64w6kx/image/upload/v1531967209/n-adamson/personal/umbrella-store.jpg" alt="" />
+									<div class="overlay">
+										<span class="text">RAINY DAY SALE</span>
 									</div>
 								</div>
 							</a>
