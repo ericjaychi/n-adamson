@@ -55,14 +55,14 @@
 								<img class="nested-page-image" src="https://res.cloudinary.com/dzf64w6kx/image/upload/v1531967225/n-adamson/professional/project-water-white-border.jpg" alt="" />
 							</div>
 						</a>
+						<a href="https://res.cloudinary.com/dzf64w6kx/image/upload/v1539814278/n-adamson/professional/project-water-assets-i.jpg" data-lightbox="roadtrip">
+							<div class="tile scale-anm">
+								<img class="nested-page-image" src="https://res.cloudinary.com/dzf64w6kx/image/upload/v1539814278/n-adamson/professional/project-water-assets-i.jpg" alt="" />
+							</div>
+						</a>
 						<a href="http://res.cloudinary.com/dzf64w6kx/image/upload/v1498152964/n-adamson/professional/project-water-2.jpg" data-lightbox="roadtrip">
 							<div class="tile scale-anm">
 								<img class="nested-page-image" src="http://res.cloudinary.com/dzf64w6kx/image/upload/v1498152964/n-adamson/professional/project-water-2.jpg" alt="" />
-							</div>
-						</a>
-						<a href="http://res.cloudinary.com/dzf64w6kx/image/upload/v1498152964/n-adamson/professional/project-water-3.jpg" data-lightbox="roadtrip">
-							<div class="tile scale-anm">
-								<img class="nested-page-image" src="http://res.cloudinary.com/dzf64w6kx/image/upload/v1498152964/n-adamson/professional/project-water-3.jpg" alt="" />
 							</div>
 						</a>
 						<a href="http://res.cloudinary.com/dzf64w6kx/image/upload/v1498152965/n-adamson/professional/project-water-4.jpg" data-lightbox="roadtrip">
