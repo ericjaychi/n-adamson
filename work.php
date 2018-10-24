@@ -121,6 +121,14 @@
 									</div>
 								</div>
 							</a>
+							<a href="portfolio/vesperia-royal-tower.php">
+								<div class="tile scale-anm professional all">
+									<img src="https://res.cloudinary.com/dzf64w6kx/image/upload/v1540397984/n-adamson/professional/arcadia-set-3-final.jpg" alt="" />
+									<div class="overlay">
+										<span class="text">VESPERIA ROYAL TOWER<br><span class="inner">(AGE OF ARCADIA™)</span></span>
+									</div>
+								</div>
+							</a>
 							<a href="portfolio/vesperia-interiors.php">
 								<div class="tile scale-anm professional all">
 									<img src="https://res.cloudinary.com/dzf64w6kx/image/upload/v1531967224/n-adamson/professional/cassies-room.jpg" alt="" />
