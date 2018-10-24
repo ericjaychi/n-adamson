@@ -65,6 +65,14 @@
 				<div class="row">
 					<div class="col-md-12">
 						<div id="portfolio">
+							<a href="portfolio/brigands.php">
+								<div class="tile scale-anm personal all">
+									<img src="https://res.cloudinary.com/dzf64w6kx/image/upload/v1540399923/n-adamson/professional/brigands-zone-1-final-bg-normal.jpg" alt="" />
+									<div class="overlay">
+										<span class="text">BRIGANDS<br><span class="inner">(CONCEPT ART)</span></span>
+									</div>
+								</div>
+							</a>
 							<a href="https://res.cloudinary.com/dzf64w6kx/image/upload/v1531967209/n-adamson/personal/noxs-mind.jpg" data-lightbox="roadtrip">
 								<div class="tile scale-anm personal all">
 									<img src="https://res.cloudinary.com/dzf64w6kx/image/upload/v1531967209/n-adamson/personal/noxs-mind.jpg" alt="" />
