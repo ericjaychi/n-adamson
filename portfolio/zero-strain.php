@@ -68,16 +68,20 @@
 					</div>
 					<div class="col-md-4">
 						<p class="description-title">
-							Comic
+							Video Game
 						</p><br>
 						<p class="description">
-							Consists of full-spread + large panel environments.<br><br>
+							Indie PC game.<br><br>
 
-							Interior environments inside the castle.<br><br>
+							Created by Jaron Kong, combining space and Japanese visual styles.<br><br>
 
-							Shows initial sketches (made by 4DE's artists), linework, detail sketches, and final illustration.<br><br>
+							Designed the game's main character/NPC.<br><br>
 
-							Ongoing project.
+							Researched types of clothing and design elements, such as lace, obis, and hairstyles and applied appropriate features based on character's personality.<br><br>
+
+							Created a character sheet to be used by illustrators.<br><br>
+
+							Includes a turn around, expressions, and clothing call outs.
 						</p>
 					</div>
 				</div><hr>

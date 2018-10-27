@@ -66,13 +66,9 @@
 							Comic
 						</p><br>
 						<p class="description">
-							Consists of full-spread + large panel environments.<br><br>
+							Backgrounds showing views from and around the princess's lookout.<br><br>
 
-							Interior environments inside the castle.<br><br>
-
-							Shows initial sketches (made by 4DE's artists), linework, detail sketches, and final illustration.<br><br>
-
-							Ongoing project.
+							Created final layouts and colored images.
 						</p>
 					</div>
 				</div><hr>

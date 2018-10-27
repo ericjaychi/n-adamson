@@ -88,16 +88,16 @@
 					</div>
 					<div class="col-md-4">
 						<p class="description-title">
-							Comic
+							Video Game
 						</p><br>
 						<p class="description">
-							Consists of full-spread + large panel environments.<br><br>
+							A quirky 2-D bullet hell-style mobile game published by start-up Studio Melusine, combining steampunk and pirate-themed visual elements.<br><br>
 
-							Interior environments inside the castle.<br><br>
+							Color scripted and designed all environments and background assets.<br><br>
 
-							Shows initial sketches (made by 4DE's artists), linework, detail sketches, and final illustration.<br><br>
+							Helped design enemies, boss, and enemy animations.<br><br>
 
-							Ongoing project.
+							Responsible for UI design & elements, including Health Bar, Dialog Boxes, Ammo, Health Pick-Up, and more.
 						</p>
 					</div>
 				</div><hr>
