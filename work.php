@@ -137,14 +137,6 @@
 									</div>
 								</div>
 							</a>
-							<a href="http://res.cloudinary.com/dzf64w6kx/image/upload/v1500508415/n-adamson/personal/fourth-of-july.jpg" data-lightbox="roadtrip">
-								<div class="tile scale-anm personal all">
-									<img src="http://res.cloudinary.com/dzf64w6kx/image/upload/v1500508415/n-adamson/personal/fourth-of-july.jpg" alt="" />
-									<div class="overlay">
-										<span class="text">4TH OF JULY</span>
-									</div>
-								</div>
-							</a>
 							<a href="http://res.cloudinary.com/dzf64w6kx/image/upload/v1501285459/n-adamson/personal/sketches-final-2.jpg" data-lightbox="roadtrip">
 								<div class="tile scale-anm personal all">
 									<img src="http://res.cloudinary.com/dzf64w6kx/image/upload/v1501285459/n-adamson/personal/sketches-final-2.jpg" alt="" />
@@ -185,22 +177,6 @@
 									</div>
 								</div>
 							</a>
-							<a href="http://res.cloudinary.com/dzf64w6kx/image/upload/v1498153527/n-adamson/personal/shadow.jpg" data-lightbox="roadtrip">
-								<div class="tile scale-anm personal all">
-									<img src="http://res.cloudinary.com/dzf64w6kx/image/upload/v1498153527/n-adamson/personal/shadow.jpg" alt="" />
-									<div class="overlay">
-										<span class="text">SHADOW</span>
-									</div>
-								</div>
-							</a>
-							<a href="http://res.cloudinary.com/dzf64w6kx/image/upload/v1498153526/n-adamson/personal/rescue-of-the-shaman.jpg" data-lightbox="roadtrip">
-								<div class="tile scale-anm personal all">
-									<img src="http://res.cloudinary.com/dzf64w6kx/image/upload/v1498153526/n-adamson/personal/rescue-of-the-shaman.jpg" alt="" />
-									<div class="overlay">
-										<span class="text">RESCUE OF THE SHAMAN</span>
-									</div>
-								</div>
-							</a>
 							<a href="http://res.cloudinary.com/dzf64w6kx/image/upload/v1498153774/n-adamson/storyboards/newport-tempss-boards-pg1_mini.jpg" data-lightbox="roadtrip">
 								<div class="tile scale-anm storyboard all">
 									<img src="http://res.cloudinary.com/dzf64w6kx/image/upload/v1498153774/n-adamson/storyboards/newport-tempss-boards-pg1_mini.jpg" alt="" />
@@ -223,7 +199,7 @@
 				</div>
 				<div class="row">
 					<div class="col-md-12">
-						<p class="copyright">© 2018 NICOLE ADAMSON. ANY DISTRIBUTION OR ALTERATIONS OF ANY IMAGE IS PROHIBITED WITHOUT PERMISSION.</p>
+						<p class="copyright">© 2019 NICOLE ADAMSON. ANY DISTRIBUTION OR ALTERATIONS OF ANY IMAGE IS PROHIBITED WITHOUT PERMISSION.</p>
 					</div>
 				</div>
 			</div>
