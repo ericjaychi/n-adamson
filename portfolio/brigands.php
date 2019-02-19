@@ -50,6 +50,11 @@
 				</div><hr>
 				<div class="row">
 					<div class="col-md-8">
+						<a href="https://res.cloudinary.com/dzf64w6kx/image/upload/v1550544685/n-adamson/personal/brigands-zone-1-gameplay.jpg" data-lightbox="roadtrip">
+							<div class="tile scale-anm">
+								<img class="nested-page-image" src="https://res.cloudinary.com/dzf64w6kx/image/upload/v1550544685/n-adamson/personal/brigands-zone-1-gameplay.jpg" alt="" />
+							</div>
+						</a>
 						<a href="https://res.cloudinary.com/dzf64w6kx/image/upload/v1540399923/n-adamson/professional/brigands-zone-1-final-bg-normal.jpg" data-lightbox="roadtrip">
 							<div class="tile scale-anm">
 								<img class="nested-page-image" src="https://res.cloudinary.com/dzf64w6kx/image/upload/v1540399923/n-adamson/professional/brigands-zone-1-final-bg-normal.jpg" alt="" />
@@ -97,7 +102,9 @@
 
 							Helped design enemies, boss, and enemy animations.<br><br>
 
-							Responsible for UI design & elements, including Health Bar, Dialog Boxes, Ammo, Health Pick-Up, and more.
+							Responsible for UI design & elements, including Health Bar, Dialog Boxes, Ammo, Health Pick-Up, and more.<br><br>
+
+							Player Ship & Pirates by Ash Klekzca. Image Arranged by Maaz Baig.
 						</p>
 					</div>
 				</div><hr>

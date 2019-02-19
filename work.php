@@ -55,8 +55,9 @@
 						<ul class="filter">
 							<li class="btn fil-cat" data-rel="all">All</li> |
 							<li class="btn fil-cat" data-rel="professional">Professional</li> |
-							<li class="btn fil-cat" data-rel="personal">Original Work</li> |
-							<li class="btn fil-cat" data-rel="storyboard">Storyboards</li>
+							<li class="btn fil-cat" data-rel="personal">Personal</li> |
+							<li class="btn fil-cat" data-rel="storyboard">Storyboards</li> |
+							<li class="btn fil-cat" data-rel="life-drawings">Life Drawings</li>
 						</ul>
 					</div>
 				</div>
@@ -65,9 +66,9 @@
 				<div class="row">
 					<div class="col-md-12">
 						<div id="portfolio">
-							<a href="https://res.cloudinary.com/dzf64w6kx/image/upload/v1531967209/n-adamson/personal/noxs-mind.jpg" data-lightbox="roadtrip">
+							<a href="https://res.cloudinary.com/dzf64w6kx/image/upload/v1550543798/n-adamson/personal/noxs-mind-final.jpg" data-lightbox="roadtrip">
 								<div class="tile scale-anm personal all">
-									<img src="https://res.cloudinary.com/dzf64w6kx/image/upload/v1531967209/n-adamson/personal/noxs-mind.jpg" alt="" />
+									<img src="https://res.cloudinary.com/dzf64w6kx/image/upload/v1550543798/n-adamson/personal/noxs-mind-final.jpg" alt="" />
 									<div class="overlay">
 										<span class="text">NOX'S MIND - THE FURNISHED CITY</span>
 									</div>
@@ -121,6 +122,30 @@
 									</div>
 								</div>
 							</a>
+							<a href="https://res.cloudinary.com/dzf64w6kx/image/upload/v1550549416/n-adamson/personal/cave-of-lost-mail.jpg" data-lightbox="roadtrip">
+								<div class="tile scale-anm personal all">
+									<img src="https://res.cloudinary.com/dzf64w6kx/image/upload/v1550549416/n-adamson/personal/cave-of-lost-mail.jpg" alt="" />
+									<div class="overlay">
+										<span class="text">CAVE OF LOST MAIL</span>
+									</div>
+								</div>
+							</a>
+							<a href="portfolio/lakeside.php">
+								<div class="tile scale-anm personal all">
+									<img src="https://res.cloudinary.com/dzf64w6kx/image/upload/v1550545208/n-adamson/personal/lakehouse-final.jpg" alt="" />
+									<div class="overlay">
+										<span class="text">LAKESIDE</span>
+									</div>
+								</div>
+							</a>
+							<a href="https://res.cloudinary.com/dzf64w6kx/image/upload/v1550550518/n-adamson/personal/fish-house.jpg" data-lightbox="roadtrip">
+								<div class="tile scale-anm personal all">
+									<img src="https://res.cloudinary.com/dzf64w6kx/image/upload/v1550550518/n-adamson/personal/fish-house.jpg" alt="" />
+									<div class="overlay">
+										<span class="text">FISH HOUSE</span>
+									</div>
+								</div>
+							</a>
 							<a href="portfolio/vesperia-royal-tower.php">
 								<div class="tile scale-anm professional all">
 									<img src="https://res.cloudinary.com/dzf64w6kx/image/upload/v1540397984/n-adamson/professional/arcadia-set-3-final.jpg" alt="" />
@@ -145,6 +170,14 @@
 									</div>
 								</div>
 							</a>
+							<a href="https://res.cloudinary.com/dzf64w6kx/image/upload/v1550550353/n-adamson/personal/afternoon-cabana.jpg" data-lightbox="roadtrip">
+								<div class="tile scale-anm personal all">
+									<img src="https://res.cloudinary.com/dzf64w6kx/image/upload/v1550550353/n-adamson/personal/afternoon-cabana.jpg" alt="" />
+									<div class="overlay">
+										<span class="text">AFTERNOON CABANA</span>
+									</div>
+								</div>
+							</a>
 							<a href="portfolio/zero-strain.php">
 								<div class="tile scale-anm professional all">
 									<img src="https://res.cloudinary.com/dzf64w6kx/image/upload/v1540402155/n-adamson/professional/zero-strain-turnaround.jpg" alt="" />
@@ -155,22 +188,30 @@
 							</a>
 							<a href="portfolio/brigands.php">
 								<div class="tile scale-anm professional all">
-									<img src="https://res.cloudinary.com/dzf64w6kx/image/upload/v1540399923/n-adamson/professional/brigands-zone-1-final-bg-normal.jpg" alt="" />
+									<img src="https://res.cloudinary.com/dzf64w6kx/image/upload/v1550544685/n-adamson/personal/brigands-zone-1-gameplay.jpg" alt="" />
 									<div class="overlay">
 										<span class="text">BRIGANDS<br><span class="inner">(CONCEPT ART)</span></span>
 									</div>
 								</div>
 							</a>
-							<a href="https://res.cloudinary.com/dzf64w6kx/image/upload/v1531967209/n-adamson/personal/umbrella-store.jpg" data-lightbox="roadtrip">
+							<a href="https://res.cloudinary.com/dzf64w6kx/image/upload/v1550550787/n-adamson/personal/unpacking.jpg" data-lightbox="roadtrip">
 								<div class="tile scale-anm personal all">
-									<img src="https://res.cloudinary.com/dzf64w6kx/image/upload/v1531967209/n-adamson/personal/umbrella-store.jpg" alt="" />
+									<img src="https://res.cloudinary.com/dzf64w6kx/image/upload/v1550550787/n-adamson/personal/unpacking.jpg" alt="" />
+									<div class="overlay">
+										<span class="text">UNPACKING</span>
+									</div>
+								</div>
+							</a>
+							<a href="https://res.cloudinary.com/dzf64w6kx/image/upload/v1550544415/n-adamson/personal/umbrella-store-final.jpg" data-lightbox="roadtrip">
+								<div class="tile scale-anm personal all">
+									<img src="https://res.cloudinary.com/dzf64w6kx/image/upload/v1550544415/n-adamson/personal/umbrella-store-final.jpg" alt="" />
 									<div class="overlay">
 										<span class="text">RAINY DAY SALE</span>
 									</div>
 								</div>
 							</a>
 							<a href="http://res.cloudinary.com/dzf64w6kx/image/upload/v1500529702/n-adamson/personal/sketches-body.jpg" data-lightbox="roadtrip">
-								<div class="tile scale-anm personal all">
+								<div class="tile scale-anm life-drawings all">
 									<img src="http://res.cloudinary.com/dzf64w6kx/image/upload/v1500529702/n-adamson/personal/sketches-body.jpg" alt="" />
 									<div class="overlay">
 										<span class="text">FIGURE/OBSERVATIONAL DRAWINGS</span>
