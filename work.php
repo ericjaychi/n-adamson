@@ -45,7 +45,7 @@
 			<div class="container">
 				<hr><div class="row">
 					<div class="col-md-12">
-						<h1 class="navigation-title">PORTFOLIO</h1>
+						<h1 class="navigation-title"><span class="navigation-title-p">P</span>ORTFOLIO</h1>
 					</div>
 				</div><hr>
 			</div>

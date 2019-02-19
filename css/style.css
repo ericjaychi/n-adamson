@@ -133,6 +133,16 @@ ul {
 	margin-bottom: 15px;
 }
 
+.navigation-title-p {
+	background-color: white;
+	border-color: white;
+	display: inline;
+	font-size: 20px;
+	font-family: "nyala", sans-serif;
+	margin-top: 15px;
+	margin-bottom: 15px;
+}
+
 .navbar-default .navbar-nav>li>a:focus,
 .navbar-default .navbar-nav>li>a:hover {
 	color: #777;
