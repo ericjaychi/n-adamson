@@ -57,7 +57,7 @@
 						</a>
 						<a href="https://res.cloudinary.com/dzf64w6kx/image/upload/v1552168663/n-adamson/life-drawings/location-studies/lobby.jpg" data-lightbox="roadtrip">
 							<div class="tile scale-anm sketches all">
-								<img class="https://res.cloudinary.com/dzf64w6kx/image/upload/v1552168663/n-adamson/life-drawings/location-studies/lobby.jpg" alt="" />
+								<img class="nested-page-image" src="https://res.cloudinary.com/dzf64w6kx/image/upload/v1552168663/n-adamson/life-drawings/location-studies/lobby.jpg" alt="" />
 							</div>
 						</a>
 						<a href="https://res.cloudinary.com/dzf64w6kx/image/upload/v1552168664/n-adamson/life-drawings/location-studies/makeup-counter.jpg" data-lightbox="roadtrip">
