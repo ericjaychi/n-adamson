@@ -45,7 +45,7 @@
 			<div class="container">
 				<hr><div class="row">
 					<div class="col-md-12">
-						<h1 class="navigation-title"><span class="navigation-title-p">P</span>ORTFOLIO</h1>
+						<h1 class="navigation-title"><span class="navigation-title-p">PORTFOLIO</span></h1>
 					</div>
 				</div><hr>
 			</div>
@@ -138,7 +138,15 @@
 									</div>
 								</div>
 							</a>
-							<a href="https://res.cloudinary.com/dzf64w6kx/image/upload/v1550550518/n-adamson/personal/fish-house.jpg" data-lightbox="roadtrip">
+							<a href="portfolio/face-studies.php">
+								<div class="tile scale-anm life-drawings all">
+									<img src="https://res.cloudinary.com/dzf64w6kx/image/upload/v1552169711/n-adamson/life-drawings/face-studies/face-sketches-one.jpg" alt="" />
+									<div class="overlay">
+										<span class="text">FACE STUDIES</span>
+									</div>
+								</div>
+							</a>
+							<a href="portfolio/fish-house.php">
 								<div class="tile scale-anm personal all">
 									<img src="https://res.cloudinary.com/dzf64w6kx/image/upload/v1550550518/n-adamson/personal/fish-house.jpg" alt="" />
 									<div class="overlay">
@@ -178,6 +186,22 @@
 									</div>
 								</div>
 							</a>
+							<a href="portfolio/location-studies.php">
+								<div class="tile scale-anm life-drawings all">
+									<img src="https://res.cloudinary.com/dzf64w6kx/image/upload/v1552168664/n-adamson/life-drawings/location-studies/park-study.jpg" alt="" />
+									<div class="overlay">
+										<span class="text">LOCATION STUDIES</span>
+									</div>
+								</div>
+							</a>
+							<a href="https://res.cloudinary.com/dzf64w6kx/image/upload/v1552167958/n-adamson/personal/trake-chase-scene.jpg" data-lightbox="roadtrip">
+								<div class="tile scale-anm personal all">
+									<img src="https://res.cloudinary.com/dzf64w6kx/image/upload/v1552167958/n-adamson/personal/trake-chase-scene.jpg" alt="" />
+									<div class="overlay">
+										<span class="text">TRAKE CHASE SCENE</span>
+									</div>
+								</div>
+							</a>
 							<a href="portfolio/zero-strain.php">
 								<div class="tile scale-anm professional all">
 									<img src="https://res.cloudinary.com/dzf64w6kx/image/upload/v1540402155/n-adamson/professional/zero-strain-turnaround.jpg" alt="" />
@@ -194,7 +218,7 @@
 									</div>
 								</div>
 							</a>
-							<a href="https://res.cloudinary.com/dzf64w6kx/image/upload/v1550550787/n-adamson/personal/unpacking.jpg" data-lightbox="roadtrip">
+							<a href="portfolio/unpacking.php">
 								<div class="tile scale-anm personal all">
 									<img src="https://res.cloudinary.com/dzf64w6kx/image/upload/v1550550787/n-adamson/personal/unpacking.jpg" alt="" />
 									<div class="overlay">
