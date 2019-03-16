@@ -25,9 +25,9 @@
 						<span class="icon-bar"></span>
 						<span class="icon-bar"></span>
 					</button>
-					<div class="container-fluid">
+					<div class="container-center container-fluid">
 						<a href="../index.php">
-							<img src="http://res.cloudinary.com/dzf64w6kx/image/upload/v1498153886/n-adamson/logos/logo.jpg">
+							<img class="center-image responsive-image" src="https://res.cloudinary.com/dzf64w6kx/image/upload/v1552717776/n-adamson/logos/logo-two.png">
 						</a>
 					</div>
 				</div>
@@ -73,10 +73,7 @@
 					</div>
 					<div class="col-md-4">
 						<p class="description-title">
-							Drawings, Character Concepts, and Environment Sketching
-						</p><br>
-						<p class="description">
-							A brief collection of environment paintings based on my adventures, exploring lighting, composition, and atmosphere.
+							Environment Sketching & Painting
 						</p>
 					</div>
 				</div><hr>

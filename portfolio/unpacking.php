@@ -25,9 +25,9 @@
 						<span class="icon-bar"></span>
 						<span class="icon-bar"></span>
 					</button>
-					<div class="container-fluid">
+					<div class="container-center container-fluid">
 						<a href="../index.php">
-							<img src="http://res.cloudinary.com/dzf64w6kx/image/upload/v1498153886/n-adamson/logos/logo.jpg">
+							<img class="center-image responsive-image" src="https://res.cloudinary.com/dzf64w6kx/image/upload/v1552717776/n-adamson/logos/logo-two.png">
 						</a>
 					</div>
 				</div>
@@ -68,16 +68,10 @@
 					</div>
 					<div class="col-md-4">
 						<p class="description-title">
-							Video Game
+							Animation Background
 						</p><br>
 						<p class="description">
-							Creating assets and concept art to be used in final product.<br><br>
-
-							Help design levels and create opening/title screen.<br><br>
-
-							In charge of designing overall color palette for first level.<br><br>
-
-							Ongoing.
+							Interior background design project showing final render, linework, and local color.
 						</p>
 					</div>
 				</div><hr>

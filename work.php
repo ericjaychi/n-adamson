@@ -25,9 +25,9 @@
 						<span class="icon-bar"></span>
 						<span class="icon-bar"></span>
 					</button>
-					<div class="container-fluid">
+					<div class="container-center container-fluid">
 						<a href="index.php">
-							<img src="http://res.cloudinary.com/dzf64w6kx/image/upload/v1498153886/n-adamson/logos/logo.jpg">
+							<img class="center-image responsive-image" src="https://res.cloudinary.com/dzf64w6kx/image/upload/v1552717776/n-adamson/logos/logo-two.png">
 						</a>
 					</div>
 				</div>
@@ -54,7 +54,7 @@
 					<div class="categories">
 						<ul class="filter">
 							<li class="btn fil-cat" data-rel="all">All</li> |
-							<li class="btn fil-cat" data-rel="professional">Professional</li> |
+							<li class="btn fil-cat" data-rel="professional">Projects</li> |
 							<li class="btn fil-cat" data-rel="personal">Personal</li> |
 							<li class="btn fil-cat" data-rel="storyboard">Storyboards</li> |
 							<li class="btn fil-cat" data-rel="life-drawings">Life Drawings</li>
@@ -71,6 +71,14 @@
 									<img src="https://res.cloudinary.com/dzf64w6kx/image/upload/v1550543798/n-adamson/personal/noxs-mind-final.jpg" alt="" />
 									<div class="overlay">
 										<span class="text">NOX'S MIND - THE FURNISHED CITY</span>
+									</div>
+								</div>
+							</a>
+							<a href="portfolio/brigands.php">
+								<div class="tile scale-anm professional all">
+									<img src="https://res.cloudinary.com/dzf64w6kx/image/upload/v1550544685/n-adamson/personal/brigands-zone-1-gameplay.jpg" alt="" />
+									<div class="overlay">
+										<span class="text">BRIGANDS<br><span class="inner">(CONCEPT ART)</span></span>
 									</div>
 								</div>
 							</a>
@@ -146,6 +154,14 @@
 									</div>
 								</div>
 							</a>
+							<a href="portfolio/unpacking.php">
+								<div class="tile scale-anm personal all">
+									<img src="https://res.cloudinary.com/dzf64w6kx/image/upload/v1550550787/n-adamson/personal/unpacking.jpg" alt="" />
+									<div class="overlay">
+										<span class="text">UNPACKING</span>
+									</div>
+								</div>
+							</a>
 							<a href="portfolio/fish-house.php">
 								<div class="tile scale-anm personal all">
 									<img src="https://res.cloudinary.com/dzf64w6kx/image/upload/v1550550518/n-adamson/personal/fish-house.jpg" alt="" />
@@ -207,22 +223,6 @@
 									<img src="https://res.cloudinary.com/dzf64w6kx/image/upload/v1540402155/n-adamson/professional/zero-strain-turnaround.jpg" alt="" />
 									<div class="overlay">
 										<span class="text">ZERO STRAIN MAIN CHARACTER</span>
-									</div>
-								</div>
-							</a>
-							<a href="portfolio/brigands.php">
-								<div class="tile scale-anm professional all">
-									<img src="https://res.cloudinary.com/dzf64w6kx/image/upload/v1550544685/n-adamson/personal/brigands-zone-1-gameplay.jpg" alt="" />
-									<div class="overlay">
-										<span class="text">BRIGANDS<br><span class="inner">(CONCEPT ART)</span></span>
-									</div>
-								</div>
-							</a>
-							<a href="portfolio/unpacking.php">
-								<div class="tile scale-anm personal all">
-									<img src="https://res.cloudinary.com/dzf64w6kx/image/upload/v1550550787/n-adamson/personal/unpacking.jpg" alt="" />
-									<div class="overlay">
-										<span class="text">UNPACKING</span>
 									</div>
 								</div>
 							</a>
