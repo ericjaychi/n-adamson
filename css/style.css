@@ -101,15 +101,15 @@ ul {
 }
 
 .description {
-	font-size: 12px;
+	font-size: 16px;
 	text-align: left;
-	font-family: "tahoma", sans-serif;
+	font-family: "nyala", sans-serif;
 }
 
 .description-title {
-	font-size 14px;
+	font-size: 18px;
 	text-align: left;
-	font-family: "tahoma", sans-serif;
+	font-family: "nyala", sans-serif;
 }
 
 .resume {
@@ -153,8 +153,8 @@ ul {
 .navigation-title {
 	background-color: white;
 	border-color: white;
-	font-size: 14px;
-	font-family: "tahoma", sans-serif;
+	font-size: 18px;
+	font-family: "nyala", sans-serif;
 	margin-top: 15px;
 	margin-bottom: 15px;
 }
@@ -229,7 +229,7 @@ p {
 
 .text {
 	color: black;
-	font-family: "nyala", sans-serif;
+	font-family: "tahoma", sans-serif;
 	font-size: 20px;
 	position: absolute;
 	top: 50%;
