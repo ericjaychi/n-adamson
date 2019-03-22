@@ -25,12 +25,10 @@
 						<span class="icon-bar"></span>
 						<span class="icon-bar"></span>
 					</button>
-					<div class="container-fluid">
-						<div class="container-center container-fluid">
-							<a href="../index.php">
-								<img class="center-image responsive-image" src="https://res.cloudinary.com/dzf64w6kx/image/upload/v1552717776/n-adamson/logos/logo-two.png">
-							</a>
-						</div>
+					<div class="container-center container-fluid">
+						<a href="../index.php">
+							<img class="center-image responsive-image" src="https://res.cloudinary.com/dzf64w6kx/image/upload/v1552717776/n-adamson/logos/logo-two.png">
+						</a>
 					</div>
 				</div>
 				<div class="collapse navbar-collapse" id="myNavbar">
