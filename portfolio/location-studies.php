@@ -74,6 +74,9 @@
 					<div class="col-md-4">
 						<p class="description-title">
 							Environment Sketching & Painting
+						</p><br>
+						<p class="description">
+							A brief collection of environment paintings based on my adventures, exploring lighting, composition, and atmosphere.
 						</p>
 					</div>
 				</div><hr>
