@@ -60,7 +60,7 @@
 									<img class="d-block img-fluid main-image center-block" src="https://res.cloudinary.com/dzf64w6kx/image/upload/v1550549416/n-adamson/personal/cave-of-lost-mail.jpg">
 								</div>
 								<div class="item">
-									<img class="d-block img-fluid main-image center-block" src="https://res.cloudinary.com/dzf64w6kx/image/upload/v1552167958/n-adamson/personal/trake-chase-scene.jpg">
+									<img class="d-block img-fluid main-image center-block" src="https://res.cloudinary.com/dzf64w6kx/image/upload/v1554706271/n-adamson/personal/chase-scene-final.jpg">
 								</div>
 								<div class="item">
 									<img class="d-block img-fluid main-image center-block" src="https://res.cloudinary.com/dzf64w6kx/image/upload/v1552169711/n-adamson/life-drawings/face-studies/face-sketches-one.jpg">

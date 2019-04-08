@@ -218,11 +218,11 @@
 									</div>
 								</div>
 							</a>
-							<a href="https://res.cloudinary.com/dzf64w6kx/image/upload/v1552167958/n-adamson/personal/trake-chase-scene.jpg" data-lightbox="roadtrip">
-								<div class="tile scale-anm personal all">
-									<img src="https://res.cloudinary.com/dzf64w6kx/image/upload/v1552167958/n-adamson/personal/trake-chase-scene.jpg" alt="" />
+							<a href="portfolio/lorin-and-the-otherwordly-chase-scene.php">
+								<div class="tile scale-anm storyboard all">
+									<img src="https://res.cloudinary.com/dzf64w6kx/image/upload/v1554706271/n-adamson/personal/chase-scene-final.jpg" alt="" />
 									<div class="overlay">
-										<span class="text">TRAKE CHASE SCENE</span>
+										<span class="text">LORIN & THE OTHERWORDLY: CHASE SCENE</span>
 									</div>
 								</div>
 							</a>
