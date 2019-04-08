@@ -146,6 +146,14 @@
 									</div>
 								</div>
 							</a>
+							<a href="portfolio/watercolor-figures.php">
+								<div class="tile scale-anm life-drawings all">
+									<img src="https://res.cloudinary.com/dzf64w6kx/image/upload/v1554705476/n-adamson/life-drawings/watercolor-figures/figure-drawing-one.jpg" alt="" />
+									<div class="overlay">
+										<span class="text">WATERCOLOR FIGURE DRAWINGS</span>
+									</div>
+								</div>
+							</a>
 							<a href="portfolio/face-studies.php">
 								<div class="tile scale-anm life-drawings all">
 									<img src="https://res.cloudinary.com/dzf64w6kx/image/upload/v1552169711/n-adamson/life-drawings/face-studies/face-sketches-one.jpg" alt="" />
