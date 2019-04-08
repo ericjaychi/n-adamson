@@ -204,7 +204,7 @@
 							</a>
 							<a href="portfolio/location-studies.php">
 								<div class="tile scale-anm life-drawings all">
-									<img src="https://res.cloudinary.com/dzf64w6kx/image/upload/v1552168664/n-adamson/life-drawings/location-studies/park-study.jpg" alt="" />
+									<img src="https://res.cloudinary.com/dzf64w6kx/image/upload/v1552168663/n-adamson/life-drawings/location-studies/lobby.jpg" alt="" />
 									<div class="overlay">
 										<span class="text">LOCATION STUDIES</span>
 									</div>
