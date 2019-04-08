@@ -33,10 +33,10 @@
 				</div>
 				<div class="collapse navbar-collapse" id="myNavbar">
 					<ul class="nav navbar-nav navbar-right" id="navigation">
-						<li><a href="index.php">Home</a></li>
-						<li class="current-menu-item"><a href="work.php">Work</a></li>
-						<li><a href="about.php">About</a></li>
-						<li><a href="contact.php">Contact</a></li>
+						<li><a href="index.php">HOME</a></li>
+						<li class="current-menu-item"><a href="work.php">WORK</a></li>
+						<li><a href="about.php">ABOUT</a></li>
+						<li><a href="contact.php">CONTACT</a></li>
 					</ul>
 				</div>
 			</div>
@@ -130,7 +130,6 @@
 									</div>
 								</div>
 							</a>
-							<br><br><br><br><br><br>
 							<a href="https://res.cloudinary.com/dzf64w6kx/image/upload/v1550549416/n-adamson/personal/cave-of-lost-mail.jpg" data-lightbox="roadtrip">
 								<div class="tile scale-anm personal all">
 									<img src="https://res.cloudinary.com/dzf64w6kx/image/upload/v1550549416/n-adamson/personal/cave-of-lost-mail.jpg" alt="" />

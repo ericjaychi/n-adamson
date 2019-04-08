@@ -33,10 +33,10 @@
 				</div>
 				<div class="collapse navbar-collapse" id="myNavbar">
 					<ul class="nav navbar-nav navbar-right" id="navigation">
-						<li><a href="index.php">Home</a></li>
-						<li><a href="work.php">Work</a></li>
-						<li class="current-menu-item"><a href="about.html">About</a></li>
-						<li><a href="contact.php">Contact</a></li>
+						<li><a href="index.php">HOME</a></li>
+						<li><a href="work.php">WORK</a></li>
+						<li class="current-menu-item"><a href="about.html">ABOUT</a></li>
+						<li><a href="contact.php">CONTACT</a></li>
 					</ul>
 				</div>
 			</div>
