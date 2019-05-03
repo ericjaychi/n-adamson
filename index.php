@@ -27,7 +27,7 @@
 					</button>
 					<div class="container-center container-fluid">
 						<a href="index.php">
-							<img class="center-image responsive-image" src="https://res.cloudinary.com/dzf64w6kx/image/upload/v1553313989/n-adamson/logos/logo-three.jpg">
+							<img class="center-image responsive-image" src="https://res.cloudinary.com/dzf64w6kx/image/upload/v1556851309/n-adamson/logos/logo-four.png">
 						</a>
 					</div>
 				</div>
