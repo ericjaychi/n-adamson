@@ -68,8 +68,7 @@
 					</div>
 					<div class="col-md-4">
 						<p class="description-title">
-							<!-- TODO: Need a description title for this. -->
-							Video Game
+							Animation Storyboard & Color Script
 						</p><br>
 						<p class="description">
 							An evil magistrate searching for a boy from another world. This is a quick animation project illustrating scenes exploring storyboards & composition, color
