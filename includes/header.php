@@ -14,11 +14,11 @@
 		</div>
 		<div class="collapse navbar-collapse" id="myNavbar">
 			<ul class="nav navbar-nav navbar-right" id="navigation">
-				<li><a href="/index.php">HOME</a></li>
-				<!-- TODO: Need to fix this part so that it is dynamic and changes based on the file name or if the file doesn't exist then it should default to work or something. -->
-				<li class="current-menu-item"><a href="/work.php">WORK</a></li>
-				<li><a href="/about.php">ABOUT</a></li>
-				<li><a href="/contact.php">CONTACT</a></li>
+				<?php $page_name = $_SERVER['PHP_SELF']; ?>
+				<li <?php if (strpos($page_name, "index")): ?> class="current-menu-item" <?php endif; ?>><a href="/index.php">HOME</a></li>
+				<li <?php if (strpos($page_name, "work") || strpos($page_name, "portfolio")): ?> class="current-menu-item" <?php endif; ?>><a href="/work.php">WORK</a></li>
+				<li <?php if (strpos($page_name, "about")): ?> class="current-menu-item" <?php endif; ?>><a href="/about.php">ABOUT</a></li>
+				<li <?php if (strpos($page_name, "contact")): ?> class="current-menu-item" <?php endif; ?>><a href="/contact.php">CONTACT</a></li>
 			</ul>
 		</div>
 	</div>
