@@ -15,6 +15,8 @@
 		<!-- Custom CSS -->
 		<link rel="stylesheet" type="text/css" href="../css/style.css">
 		<link rel="stylesheet" type="text/css" href="../css/lightbox.css">
+		<?php include "../includes/analytics.php" ?>
+
 	</head>
 	<body>
 		<?php include "../includes/header.php" ?>
