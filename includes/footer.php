@@ -8,7 +8,7 @@
 	</div>
 	<div class="row">
 		<div class="col-md-12">
-			<p class="copyright">© 2019 NICOLE ADAMSON. ANY DISTRIBUTION OR ALTERATIONS OF ANY IMAGE IS PROHIBITED WITHOUT PERMISSION.</p>
+			<p class="copyright">© <?php echo date("Y"); ?> NICOLE ADAMSON. ANY DISTRIBUTION OR ALTERATIONS OF ANY IMAGE IS PROHIBITED WITHOUT PERMISSION.</p>
 		</div>
 	</div>
 </div>
