@@ -23,6 +23,11 @@
 	src: url(../fonts/gilroy-light.ttf);
 }
 
+@font-face {
+	font-family: "nexa-bold";
+	src: url(../fonts/nexa-bold.otf);
+}
+
 @media only screen and (max-width: 800px) {
 	.responsive-image {
 		width: 100%;
@@ -160,7 +165,7 @@ ul {
 	background-color: white;
 	border-color: white;
 	font-size: 18px;
-	font-family: "nyala", sans-serif;
+	font-family: "nexa-bold", sans-serif;
 	margin-top: 15px;
 	margin-bottom: 15px;
 }
@@ -170,7 +175,7 @@ ul {
 	border-color: white;
 	display: inline;
 	font-size: 20px;
-	font-family: "nyala", sans-serif;
+	font-family: "nexa-bold", sans-serif;
 	margin-top: 15px;
 	margin-bottom: 15px;
 }
