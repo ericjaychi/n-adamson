@@ -117,6 +117,10 @@ ul {
 	font-family: "tahoma", sans-serif;
 }
 
+.description a {
+	color: #337ab7 !important;
+}
+
 .description-title {
 	font-size: 14px;
 	text-align: left;

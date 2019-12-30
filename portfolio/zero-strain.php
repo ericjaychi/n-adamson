@@ -53,13 +53,20 @@
 
 							Created by Jaron Kong, combining space and Japanese visual styles.<br><br>
 
-							Designed the game's main character/NPC.<br><br>
+							Designed the game's main character / NPC.<br><br>
 
 							Researched types of clothing and design elements, such as lace, obis, and hairstyles and applied appropriate features based on character's personality.<br><br>
 
 							Created a character sheet to be used by illustrators.<br><br>
 
-							Includes a turn around, expressions, and clothing call outs.
+							Includes a turn around, expressions, and clothing call outs.<br><br>
+
+							PC Game done for studio Kaio Meris, available on Steam <a href="https://store.steampowered.com/app/1079560/Zero_Strain/">here</a>.<br><br>
+
+							Here's a closer look at Aleira's in- game asset.<br><br>
+
+							Final Illustration & In-Game Asset are NOT mine.
+
 						</p>
 					</div>
 				</div><hr>

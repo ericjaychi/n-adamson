@@ -71,18 +71,24 @@
 					</div>
 					<div class="col-md-4">
 						<p class="description-title">
-							Video Game
+							Video Game / Mobile Game
 						</p><br>
 						<p class="description">
 							A quirky 2-D bullet hell-style mobile game published by start-up Studio Melusine, combining steampunk and pirate-themed visual elements.<br><br>
 
-							Color scripted and designed all environments and background assets.<br><br>
+							Color scripted and designed all environment assets.<br><br>
 
 							Helped design enemies, boss, and enemy animations.<br><br>
 
 							Responsible for UI design & elements, including Health Bar, Dialog Boxes, Ammo, Health Pick-Up, and more.<br><br>
 
-							Player Ship & Pirates by Ash Klekzca. Image Arranged by Maaz Baig.
+							Player Ship & Pirates by Ash Klekzca. Image Arranged by Maaz Baig.<br><br>
+
+							Read our 4-star review <a href="http://www.supergamedroid.com/2018/11/09/brigands-review/">here</a>.<br><br>
+
+							Brigands Game Trailer <a href="https://www.youtube.com/watch?v=QCMVuiSU83E">here</a>.<br><br>
+
+							Gameplay Preview <a href="https://www.youtube.com/watch?v=9_HfhBTtFXU">here</a>.<br><br>
 						</p>
 					</div>
 				</div><hr>

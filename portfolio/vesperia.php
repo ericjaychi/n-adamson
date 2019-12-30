@@ -70,7 +70,7 @@
 
 							Shows initial sketches (made by 4DE's artists), linework, asset concepts, callouts, supplementary material, and final illustration.<br><br>
 
-							Ongoing project.
+							Comic available <a href="https://ageofarcadia.com/comic/age-of-arcadia-chapter-1-page-1/">here</a>.
 						</p>
 					</div>
 				</div><hr>
