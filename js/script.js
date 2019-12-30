@@ -14,3 +14,7 @@ $(function() {
 		}, 300);
 	});
 });
+
+$("body").on("contextmenu", "img", function(e) {
+	return false;
+});
