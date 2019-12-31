@@ -13,12 +13,12 @@
 		<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.5/css/bootstrap.min.css" />
 
 		<!-- Custom CSS -->
-		<link rel="stylesheet" type="text/css" href="css/style.css">
-		<link rel="stylesheet" type="text/css" href="css/lightbox.css">
-		<?php include "includes/analytics.php" ?>
+		<link rel="stylesheet" type="text/css" href="../css/style.css">
+		<link rel="stylesheet" type="text/css" href="../css/lightbox.css">
+		<?php include "../includes/analytics.php" ?>
 	</head>
 	<body>
-		<?php include "includes/header.php" ?>
+		<?php include "../includes/header.php" ?>
 		<div class="main">
 			<div class="container">
 				<hr><div class="row">
@@ -44,7 +44,7 @@
 				<div class="row">
 					<div class="col-md-12">
 						<div id="portfolio">
-							<a href="portfolio/lakeside.php">
+							<a href="lakeside.php">
 								<div class="tile scale-anm personal all">
 									<img src="https://res.cloudinary.com/dzf64w6kx/image/upload/v1550545208/n-adamson/personal/lakehouse-final.jpg" alt="" />
 									<div class="overlay">
@@ -52,7 +52,7 @@
 									</div>
 								</div>
 							</a>
-							<a href="portfolio/lorin-and-the-otherwordly-chase-scene.php">
+							<a href="lorin-and-the-otherwordly-chase-scene.php">
 								<div class="tile scale-anm storyboard all">
 									<img src="https://res.cloudinary.com/dzf64w6kx/image/upload/v1554706271/n-adamson/personal/chase-scene-final.jpg" alt="" />
 									<div class="overlay">
@@ -60,7 +60,7 @@
 									</div>
 								</div>
 							</a>
-							<a href="portfolio/vesperia.php">
+							<a href="vesperia.php">
 								<div class="tile scale-anm professional all">
 									<img src="http://res.cloudinary.com/dzf64w6kx/image/upload/v1498152964/n-adamson/professional/vesperia-closeup-pg1.jpg" alt="" />
 									<div class="overlay">
@@ -68,7 +68,7 @@
 									</div>
 								</div>
 							</a>
-							<a href="portfolio/fish-house.php">
+							<a href="fish-house.php">
 								<div class="tile scale-anm personal all">
 									<img src="https://res.cloudinary.com/dzf64w6kx/image/upload/v1550550518/n-adamson/personal/fish-house.jpg" alt="" />
 									<div class="overlay">
@@ -100,7 +100,7 @@
 									</div>
 								</div>
 							</a>
-							<a href="portfolio/watercolor-figures.php">
+							<a href="watercolor-figures.php">
 								<div class="tile scale-anm life-drawings all">
 									<img src="https://res.cloudinary.com/dzf64w6kx/image/upload/v1554705476/n-adamson/life-drawings/watercolor-figures/figure-drawing-one.jpg" alt="" />
 									<div class="overlay">
@@ -108,7 +108,7 @@
 									</div>
 								</div>
 							</a>
-							<a href="portfolio/face-studies.php">
+							<a href="face-studies.php">
 								<div class="tile scale-anm life-drawings all">
 									<img src="https://res.cloudinary.com/dzf64w6kx/image/upload/v1552169711/n-adamson/life-drawings/face-studies/face-sketches-one.jpg" alt="" />
 									<div class="overlay">
@@ -120,7 +120,7 @@
 					</div>
 				</div><hr>
 			</div>
-			<?php include "includes/footer.php" ?>
+			<?php include "../includes/footer.php" ?>
 		</div>
 	</body>
 </html>

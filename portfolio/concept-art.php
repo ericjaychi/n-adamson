@@ -13,12 +13,12 @@
 		<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.5/css/bootstrap.min.css" />
 
 		<!-- Custom CSS -->
-		<link rel="stylesheet" type="text/css" href="css/style.css">
-		<link rel="stylesheet" type="text/css" href="css/lightbox.css">
-		<?php include "includes/analytics.php" ?>
+		<link rel="stylesheet" type="text/css" href="../css/style.css">
+		<link rel="stylesheet" type="text/css" href="../css/lightbox.css">
+		<?php include "../includes/analytics.php" ?>
 	</head>
 	<body>
-		<?php include "includes/header.php" ?>
+		<?php include "../includes/header.php" ?>
 		<div class="main">
 			<div class="container">
 				<hr><div class="row">
@@ -44,7 +44,7 @@
 				<div class="row">
 					<div class="col-md-12">
 						<div id="portfolio">
-							<a href="portfolio/fault-city.php">
+							<a href="fault-city.php">
 								<div class="tile scale-anm personal all">
 									<img src="http://res.cloudinary.com/dzf64w6kx/image/upload/v1501285088/n-adamson/personal/fault-city-new.jpg" alt="" />
 									<div class="overlay">
@@ -52,7 +52,7 @@
 									</div>
 								</div>
 							</a>
-							<a href="portfolio/brigands.php">
+							<a href="brigands.php">
 								<div class="tile scale-anm professional all">
 									<img src="https://res.cloudinary.com/dzf64w6kx/image/upload/v1550544685/n-adamson/personal/brigands-zone-1-gameplay.jpg" alt="" />
 									<div class="overlay">
@@ -60,7 +60,7 @@
 									</div>
 								</div>
 							</a>
-							<a href="portfolio/zero-strain.php">
+							<a href="zero-strain.php">
 								<div class="tile scale-anm professional all">
 									<img src="https://res.cloudinary.com/dzf64w6kx/image/upload/v1540402155/n-adamson/professional/zero-strain-turnaround.jpg" alt="" />
 									<div class="overlay">
@@ -68,7 +68,7 @@
 									</div>
 								</div>
 							</a>
-							<a href="portfolio/project-water-ii.php">
+							<a href="project-water-ii.php">
 								<div class="tile scale-anm professional all">
 									<img src="https://res.cloudinary.com/dzf64w6kx/image/upload/v1531967225/n-adamson/professional/project-water-final-2.jpg" alt=""/>
 									<div class="overlay">
@@ -76,7 +76,7 @@
 									</div>
 								</div>
 							</a>
-							<a href="portfolio/project-water.php">
+							<a href="project-water.php">
 								<div class="tile scale-anm professional all">
 									<img src="https://res.cloudinary.com/dzf64w6kx/image/upload/v1531967225/n-adamson/professional/project-water-white-border.jpg" alt=""/>
 									<div class="overlay">
@@ -84,7 +84,7 @@
 									</div>
 								</div>
 							</a>
-							<a href="portfolio/daylight-saving.php">
+							<a href="daylight-saving.php">
 								<div class="tile scale-anm professional all">
 									<img src="http://res.cloudinary.com/dzf64w6kx/image/upload/v1498152962/n-adamson/professional/daylight-savings-final-pg1.jpg" alt="" />
 									<div class="overlay">
@@ -116,7 +116,7 @@
 									</div>
 								</div>
 							</a>
-							<a href="portfolio/watercolor-figures.php">
+							<a href="watercolor-figures.php">
 								<div class="tile scale-anm life-drawings all">
 									<img src="https://res.cloudinary.com/dzf64w6kx/image/upload/v1554705476/n-adamson/life-drawings/watercolor-figures/figure-drawing-one.jpg" alt="" />
 									<div class="overlay">
@@ -128,7 +128,7 @@
 					</div>
 				</div><hr>
 			</div>
-			<?php include "includes/footer.php" ?>
+			<?php include "../includes/footer.php" ?>
 		</div>
 	</body>
 </html>

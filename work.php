@@ -29,7 +29,7 @@
 				<div class="container">
 					<div class="row">
 						<div class="col-md-6">
-							<a href="concept-art.php">
+							<a href="portfolio/concept-art.php">
 								<div class="tile scale-anm">
 									<img src="https://res.cloudinary.com/dzf64w6kx/image/upload/v1550544685/n-adamson/personal/brigands-zone-1-gameplay.jpg" alt="" />
 									<div class="overlay">
@@ -39,7 +39,7 @@
 							</a>
 						</div>
 						<div class="col-md-6">
-							<a href="visual-development.php">
+							<a href="portfolio/visual-development.php">
 								<div class="tile scale-anm">
 									<img src="https://res.cloudinary.com/dzf64w6kx/image/upload/v1550545208/n-adamson/personal/lakehouse-final.jpg" alt="" />
 									<div class="overlay">
@@ -49,9 +49,9 @@
 							</a>
 						</div>
 					</div>
-				</div>
-			</div><hr>
-			<?php include "includes/footer.php" ?>
+				</div><hr>
+				<?php include "includes/footer.php" ?>
+			</div>
 		</div>
 	</body>
 </html>
