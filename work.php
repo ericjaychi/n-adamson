@@ -27,23 +27,23 @@
 					</div>
 				</div><hr>
 				<div class="container">
-					<div class="row">
+					<div class="row logo">
 						<div class="col-md-6">
+							<span>CONCEPT ART PORTFOLIO</span><br><br>
 							<a href="portfolio/concept-art.php">
 								<div class="tile scale-anm">
 									<img src="https://res.cloudinary.com/dzf64w6kx/image/upload/v1550544685/n-adamson/personal/brigands-zone-1-gameplay.jpg" alt="" />
 									<div class="overlay">
-										<span class="text">CONCEPT ART PORTFOLIO</span>
 									</div>
 								</div>
 							</a>
 						</div>
 						<div class="col-md-6">
+							<span>VISUAL DEVELOPMENT PORTFOLIO</span><br><br>
 							<a href="portfolio/visual-development.php">
 								<div class="tile scale-anm">
 									<img src="https://res.cloudinary.com/dzf64w6kx/image/upload/v1550545208/n-adamson/personal/lakehouse-final.jpg" alt="" />
 									<div class="overlay">
-										<span class="text">VISUAL DEVELOPMENT PORTFOLIO</span>
 									</div>
 								</div>
 							</a>

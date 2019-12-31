@@ -138,6 +138,10 @@ ul {
 	text-align: center;
 }
 
+.logo span {
+	color: #888888;
+}
+
 .main {
 	padding-bottom: 30px;
 	padding-left: 30px;
