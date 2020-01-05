@@ -9,10 +9,10 @@
 	<div class="row">
 		<div class="categories">
 			<ul class="filter">
-				<li class="btn fil-cat" data-rel="all">Concept</li> |
-				<li class="btn fil-cat" data-rel="professional">Visual Development</li> |
-				<li class="btn fil-cat" data-rel="personal">Story Boards</li> |
-				<li class="btn fil-cat" data-rel="storyboard">Sketch Book</li>
+				<li class="btn"><a href="../portfolio/concept-art.php">Concept</a></li> |
+				<li class="btn"><a href="../portfolio/visual-development.php">Visual Development</a></li> |
+				<li class="btn fil-cat" data-rel="storyboard">Story Boards</li> |
+				<li class="btn fil-cat" data-rel="sketchbook">Sketch Book</li>
 			</ul>
 		</div>
 	</div>
