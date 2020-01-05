@@ -355,3 +355,8 @@ body,
 .carousel-inner .item {
 	height: 100%;
 }
+
+.categories a {
+	color: #555;
+	text-decoration: none;
+}
