@@ -217,6 +217,14 @@
 									</div>
 								</div>
 							</a>
+							<a href="watercolor-gouache-paintings.php">
+								<div class="tile scale-anm sketchbook">
+									<img src="https://res.cloudinary.com/dzf64w6kx/image/upload/v1578261565/n-adamson/life-drawings/watercolor-gouache-paintings/watercolor-gouache-painting-one.jpg" alt="" />
+									<div class="overlay">
+										<span class="text">WATERCOLOR & GOUACHE PAINTINGS</span>
+									</div>
+								</div>
+							</a>
 							<a href="watercolor-figures.php">
 								<div class="tile scale-anm sketchbook">
 									<img src="https://res.cloudinary.com/dzf64w6kx/image/upload/v1554705476/n-adamson/life-drawings/watercolor-figures/figure-drawing-one.jpg" alt="" />
