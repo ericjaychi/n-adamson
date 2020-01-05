@@ -20,26 +20,7 @@
 	<body>
 		<?php include "../includes/header.php" ?>
 		<div class="main">
-			<div class="container">
-				<hr><div class="row">
-					<div class="col-md-12">
-						<h1 class="navigation-title"><span class="navigation-title-p">PORTFOLIO</span></h1>
-					</div>
-				</div><hr>
-			</div>
-			<div class="container">
-				<div class="row">
-					<div class="categories">
-						<ul class="filter">
-							<li class="btn fil-cat" data-rel="all">All</li> |
-							<li class="btn fil-cat" data-rel="professional">Projects</li> |
-							<li class="btn fil-cat" data-rel="personal">Personal</li> |
-							<li class="btn fil-cat" data-rel="storyboard">Storyboards</li> |
-							<li class="btn fil-cat" data-rel="life-drawings">Life Drawings</li>
-						</ul>
-					</div>
-				</div>
-			</div>
+			<?php include "../includes/tags.php" ?>
 			<div class="container">
 				<div class="row">
 					<div class="col-md-12">
