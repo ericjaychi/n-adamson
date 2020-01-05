@@ -60,7 +60,7 @@
 						</a>
 						<a href="https://res.cloudinary.com/dzf64w6kx/image/upload/v1578261565/n-adamson/life-drawings/watercolor-gouache-paintings/watercolor-gouache-painting-seven.jpg" data-lightbox="roadtrip">
 							<div class="tile scale-anm sketches all">
-								<img class="nested-page-image" src="https://res.cloudinary.com/dzf64w6kx/image/upload/v1578261565/n-adamson/life-drawings/watercolor-gouache-paintings/watercolor-gouache-painting-seven.jpg" alt="" />
+								<img src="https://res.cloudinary.com/dzf64w6kx/image/upload/v1578261565/n-adamson/life-drawings/watercolor-gouache-paintings/watercolor-gouache-painting-seven.jpg" alt="" />
 							</div>
 						</a>
 					</div>

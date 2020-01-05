@@ -28,54 +28,48 @@
 				</div><hr>
 				<div class="row">
 					<div class="col-md-8">
-						<a href="http://res.cloudinary.com/dzf64w6kx/image/upload/v1498153523/n-adamson/personal/grub-slumber-port-book-settsud2.jpg" data-lightbox="roadtrip">
+						<a href="https://res.cloudinary.com/dzf64w6kx/image/upload/v1578262275/n-adamson/personal/grub-slumber-one.jpg" data-lightbox="roadtrip">
 							<div class="tile scale-anm personal all">
-								<img class="nested-page-image" src="http://res.cloudinary.com/dzf64w6kx/image/upload/v1498153523/n-adamson/personal/grub-slumber-port-book-settsud2.jpg" alt="" />
+								<img class="nested-page-image" src="https://res.cloudinary.com/dzf64w6kx/image/upload/v1578262275/n-adamson/personal/grub-slumber-one.jpg" alt="" />
 							</div>
 						</a>
-						<a href="http://res.cloudinary.com/dzf64w6kx/image/upload/v1498153522/n-adamson/personal/grub-slumber-port-book-settsud1.jpg" data-lightbox="roadtrip">
+						<a href="https://res.cloudinary.com/dzf64w6kx/image/upload/v1578262275/n-adamson/personal/grub-slumber-two.jpg" data-lightbox="roadtrip">
 							<div class="tile scale-anm personal all">
-								<img class="nested-page-image" src="http://res.cloudinary.com/dzf64w6kx/image/upload/v1498153522/n-adamson/personal/grub-slumber-port-book-settsud1.jpg" alt="" />
+								<img class="nested-page-image" src="https://res.cloudinary.com/dzf64w6kx/image/upload/v1578262275/n-adamson/personal/grub-slumber-two.jpg" alt="" />
 							</div>
 						</a>
-						<a href="http://res.cloudinary.com/dzf64w6kx/image/upload/v1498153522/n-adamson/personal/grub-slumber-port-book-set-apartment-room.jpg" data-lightbox="roadtrip">
+						<a href="https://res.cloudinary.com/dzf64w6kx/image/upload/v1578262275/n-adamson/personal/grub-slumber-three.jpg" data-lightbox="roadtrip">
 							<div class="tile scale-anm personal all">
-								<img class="nested-page-image" src="http://res.cloudinary.com/dzf64w6kx/image/upload/v1498153522/n-adamson/personal/grub-slumber-port-book-set-apartment-room.jpg" alt="" />
+								<img class="nested-page-image" src="https://res.cloudinary.com/dzf64w6kx/image/upload/v1578262275/n-adamson/personal/grub-slumber-three.jpg" alt="" />
 							</div>
 						</a>
-						<a href="http://res.cloudinary.com/dzf64w6kx/image/upload/v1498153522/n-adamson/personal/grub-slumber-port-book-blaster.jpg" data-lightbox="roadtrip">
+						<a href="https://res.cloudinary.com/dzf64w6kx/image/upload/v1578262275/n-adamson/personal/grub-slumber-four.jpg" data-lightbox="roadtrip">
 							<div class="tile scale-anm personal all">
-								<img class="nested-page-image" src="http://res.cloudinary.com/dzf64w6kx/image/upload/v1498153522/n-adamson/personal/grub-slumber-port-book-blaster.jpg" alt="" />
+								<img class="nested-page-image" src="https://res.cloudinary.com/dzf64w6kx/image/upload/v1578262275/n-adamson/personal/grub-slumber-four.jpg" alt="" />
 							</div>
 						</a>
-						<a href="http://res.cloudinary.com/dzf64w6kx/image/upload/v1498153521/n-adamson/personal/grub-slumber-port-book-2nd-set-enviro.jpg" data-lightbox="roadtrip">
+						<a href="https://res.cloudinary.com/dzf64w6kx/image/upload/v1578262275/n-adamson/personal/grub-slumber-five.jpg" data-lightbox="roadtrip">
 							<div class="tile scale-anm personal all">
-								<img class="nested-page-image" src="http://res.cloudinary.com/dzf64w6kx/image/upload/v1498153521/n-adamson/personal/grub-slumber-port-book-2nd-set-enviro.jpg" alt="" />
+								<img class="nested-page-image" src="https://res.cloudinary.com/dzf64w6kx/image/upload/v1578262275/n-adamson/personal/grub-slumber-five.jpg" alt="" />
 							</div>
 						</a>
-						<a href="http://res.cloudinary.com/dzf64w6kx/image/upload/v1498153522/n-adamson/personal/grub-slumber-port-book-apartment_mini.jpg" data-lightbox="roadtrip">
+						<a href="https://res.cloudinary.com/dzf64w6kx/image/upload/v1578262275/n-adamson/personal/grub-slumber-six.jpg" data-lightbox="roadtrip">
 							<div class="tile scale-anm personal all">
-								<img class="nested-page-image" src="http://res.cloudinary.com/dzf64w6kx/image/upload/v1498153522/n-adamson/personal/grub-slumber-port-book-apartment_mini.jpg" alt="" />
+								<img class="nested-page-image" src="https://res.cloudinary.com/dzf64w6kx/image/upload/v1578262275/n-adamson/personal/grub-slumber-six.jpg" alt="" />
 							</div>
 						</a>
-						<a href="http://res.cloudinary.com/dzf64w6kx/image/upload/v1498153522/n-adamson/personal/grub-slumber-port-book-set-extras.jpg" data-lightbox="roadtrip">
+						<a href="https://res.cloudinary.com/dzf64w6kx/image/upload/v1578262275/n-adamson/personal/grub-slumber-seven.jpg" data-lightbox="roadtrip">
 							<div class="tile scale-anm personal all">
-								<img src="http://res.cloudinary.com/dzf64w6kx/image/upload/v1498153522/n-adamson/personal/grub-slumber-port-book-set-extras.jpg" alt="" />
+								<img src="https://res.cloudinary.com/dzf64w6kx/image/upload/v1578262275/n-adamson/personal/grub-slumber-seven.jpg" alt="" />
 							</div>
 						</a>
 					</div>
 					<div class="col-md-4">
 						<p class="description-title">
-							Video Game Concept
+
 						</p><br>
 						<p class="description">
-							Pre-visual work for personal story.<br><br>
 
-							Initial look at story's main character & world.<br><br>
-
-							Consists of main character's development & environment, weapon, level, and level boss.<br><br>
-
-							Shows concepts in initial stages & final piece.
 						</p>
 					</div>
 				</div><hr>
