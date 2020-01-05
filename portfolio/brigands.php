@@ -89,6 +89,8 @@
 							Brigands Game Trailer <a href="https://www.youtube.com/watch?v=QCMVuiSU83E">here</a>.<br><br>
 
 							Gameplay Preview <a href="https://www.youtube.com/watch?v=9_HfhBTtFXU">here</a>.<br><br>
+
+							APK Download <a href="../dist/brigands.apk">here</a>.<br><br>
 						</p>
 					</div>
 				</div><hr>
