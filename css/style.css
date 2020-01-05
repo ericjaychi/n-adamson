@@ -50,6 +50,12 @@
 	}
 }
 
+@media only screen and (max-width: 991px) {
+	#concept-art {
+		margin-bottom: 20px;
+	}
+}
+
 .button {
 	height: 50px;
 	line-height: 48px;
