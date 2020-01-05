@@ -209,8 +209,16 @@
 									</div>
 								</div>
 							</a>
+							<a href="http://res.cloudinary.com/dzf64w6kx/image/upload/v1498153774/n-adamson/storyboards/newport-tempss-boards-pg1_mini.jpg" data-lightbox="roadtrip">
+								<div class="tile scale-anm storyboard">
+									<img src="http://res.cloudinary.com/dzf64w6kx/image/upload/v1498153774/n-adamson/storyboards/newport-tempss-boards-pg1_mini.jpg" alt="" />
+									<div class="overlay">
+										<span class="text">STORYBOARDS</span>
+									</div>
+								</div>
+							</a>
 							<a href="watercolor-figures.php">
-								<div class="tile scale-anm">
+								<div class="tile scale-anm sketchbook">
 									<img src="https://res.cloudinary.com/dzf64w6kx/image/upload/v1554705476/n-adamson/life-drawings/watercolor-figures/figure-drawing-one.jpg" alt="" />
 									<div class="overlay">
 										<span class="text">WATERCOLOR FIGURE DRAWINGS</span>
@@ -218,7 +226,7 @@
 								</div>
 							</a>
 							<a href="watercolor-figures.php">
-								<div class="tile scale-anm">
+								<div class="tile scale-anm sketchbook">
 									<img src="https://res.cloudinary.com/dzf64w6kx/image/upload/v1554705476/n-adamson/life-drawings/watercolor-figures/figure-drawing-four.jpg" alt="" />
 									<div class="overlay">
 										<span class="text">WATERCOLOR FIGURE DRAWINGS</span>
