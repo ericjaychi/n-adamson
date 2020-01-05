@@ -52,9 +52,81 @@
 									</div>
 								</div>
 							</a>
+							<a href="fault-city.php">
+								<div class="tile scale-anm personal all">
+									<img src="http://res.cloudinary.com/dzf64w6kx/image/upload/v1498153523/n-adamson/personal/newport-temps-fault-city-pg1_mini.jpg" alt="" />
+									<div class="overlay">
+										<span class="text">FAULT CITY</span>
+									</div>
+								</div>
+							</a>
+							<a href="fault-city.php">
+								<div class="tile scale-anm personal all">
+									<img src="http://res.cloudinary.com/dzf64w6kx/image/upload/v1498153524/n-adamson/personal/newport-temps-fault-city-pg2_mini.jpg" alt="" />
+									<div class="overlay">
+										<span class="text">FAULT CITY</span>
+									</div>
+								</div>
+							</a>
+							<a href="fault-city.php">
+								<div class="tile scale-anm personal all">
+									<img src="http://res.cloudinary.com/dzf64w6kx/image/upload/v1498153525/n-adamson/personal/newport-temps-fault-city-pg3_mini.jpg" alt="" />
+									<div class="overlay">
+										<span class="text">FAULT CITY</span>
+									</div>
+								</div>
+							</a>
+							<a href="fault-city.php">
+								<div class="tile scale-anm personal all">
+									<img src="http://res.cloudinary.com/dzf64w6kx/image/upload/v1498153526/n-adamson/personal/newport-temps-fault-city-pg4_mini.jpg" alt="" />
+									<div class="overlay">
+										<span class="text">FAULT CITY</span>
+									</div>
+								</div>
+							</a>
 							<a href="brigands.php">
 								<div class="tile scale-anm professional all">
 									<img src="https://res.cloudinary.com/dzf64w6kx/image/upload/v1550544685/n-adamson/personal/brigands-zone-1-gameplay.jpg" alt="" />
+									<div class="overlay">
+										<span class="text">BRIGANDS<br><span class="inner">(CONCEPT ART)</span></span>
+									</div>
+								</div>
+							</a>
+							<a href="brigands.php">
+								<div class="tile scale-anm professional all">
+									<img src="https://res.cloudinary.com/dzf64w6kx/image/upload/v1540399923/n-adamson/professional/brigands-zone-1-final-bg-normal.jpg" alt="" />
+									<div class="overlay">
+										<span class="text">BRIGANDS<br><span class="inner">(CONCEPT ART)</span></span>
+									</div>
+								</div>
+							</a>
+							<a href="brigands.php">
+								<div class="tile scale-anm professional all">
+									<img src="https://res.cloudinary.com/dzf64w6kx/image/upload/v1540400659/n-adamson/professional/brigands-gasbag-towne-concepts.jpg" alt="" />
+									<div class="overlay">
+										<span class="text">BRIGANDS<br><span class="inner">(CONCEPT ART)</span></span>
+									</div>
+								</div>
+							</a>
+							<a href="brigands.php">
+								<div class="tile scale-anm professional all">
+									<img src="https://res.cloudinary.com/dzf64w6kx/image/upload/v1540400660/n-adamson/professional/brigands-gasbag-towne-bg-final.jpg" alt="" />
+									<div class="overlay">
+										<span class="text">BRIGANDS<br><span class="inner">(CONCEPT ART)</span></span>
+									</div>
+								</div>
+							</a>
+							<a href="brigands.php">
+								<div class="tile scale-anm professional all">
+									<img src="https://res.cloudinary.com/dzf64w6kx/image/upload/v1540399923/n-adamson/professional/brigands-zone-1-enemy-final.jpg" alt="" />
+									<div class="overlay">
+										<span class="text">BRIGANDS<br><span class="inner">(CONCEPT ART)</span></span>
+									</div>
+								</div>
+							</a>
+							<a href="brigands.php">
+								<div class="tile scale-anm professional all">
+									<img src="https://res.cloudinary.com/dzf64w6kx/image/upload/v1540399923/n-adamson/professional/brigands-zone-1-enemy-sketch.jpg" alt="" />
 									<div class="overlay">
 										<span class="text">BRIGANDS<br><span class="inner">(CONCEPT ART)</span></span>
 									</div>
@@ -68,6 +140,22 @@
 									</div>
 								</div>
 							</a>
+							<a href="zero-strain.php">
+								<div class="tile scale-anm professional all">
+									<img src="https://res.cloudinary.com/dzf64w6kx/image/upload/v1540402155/n-adamson/professional/zero-strain-expressions.jpg" alt="" />
+									<div class="overlay">
+										<span class="text">ZERO STRAIN MAIN CHARACTER</span>
+									</div>
+								</div>
+							</a>
+							<a href="zero-strain.php">
+								<div class="tile scale-anm professional all">
+									<img src="https://res.cloudinary.com/dzf64w6kx/image/upload/v1540402155/n-adamson/professional/zero-strain-aleira-line.jpg" alt="" />
+									<div class="overlay">
+										<span class="text">ZERO STRAIN MAIN CHARACTER</span>
+									</div>
+								</div>
+							</a>
 							<a href="project-water-ii.php">
 								<div class="tile scale-anm professional all">
 									<img src="https://res.cloudinary.com/dzf64w6kx/image/upload/v1531967225/n-adamson/professional/project-water-final-2.jpg" alt=""/>
@@ -76,9 +164,25 @@
 									</div>
 								</div>
 							</a>
+							<a href="project-water-ii.php">
+								<div class="tile scale-anm professional all">
+									<img src="https://res.cloudinary.com/dzf64w6kx/image/upload/v1539814476/n-adamson/professional/project-water-asset-panel-i.jpg" alt=""/>
+									<div class="overlay">
+										<span class="text">PROJECT WATER PART II</span>
+									</div>
+								</div>
+							</a>
+							<a href="project-water-ii.php">
+								<div class="tile scale-anm professional all">
+									<img src="http://res.cloudinary.com/dzf64w6kx/image/upload/v1500508393/n-adamson/professional/project-water-6.jpg" alt=""/>
+									<div class="overlay">
+										<span class="text">PROJECT WATER PART II</span>
+									</div>
+								</div>
+							</a>
 							<a href="project-water.php">
 								<div class="tile scale-anm professional all">
-									<img src="https://res.cloudinary.com/dzf64w6kx/image/upload/v1531967225/n-adamson/professional/project-water-white-border.jpg" alt=""/>
+									<img src="http://res.cloudinary.com/dzf64w6kx/image/upload/v1498152965/n-adamson/professional/project-water-4.jpg" alt=""/>
 									<div class="overlay">
 										<span class="text">PROJECT WATER</span>
 									</div>
@@ -86,7 +190,15 @@
 							</a>
 							<a href="daylight-saving.php">
 								<div class="tile scale-anm professional all">
-									<img src="http://res.cloudinary.com/dzf64w6kx/image/upload/v1498152962/n-adamson/professional/daylight-savings-final-pg1.jpg" alt="" />
+									<img src="http://res.cloudinary.com/dzf64w6kx/image/upload/v1498152962/n-adamson/professional/daylight-savings-final-pg4.jpg" alt="" />
+									<div class="overlay">
+										<span class="text">PROJECT DAYLIGHT SAVING</span>
+									</div>
+								</div>
+							</a>
+							<a href="daylight-saving.php">
+								<div class="tile scale-anm professional all">
+									<img src="http://res.cloudinary.com/dzf64w6kx/image/upload/v1498152962/n-adamson/professional/daylight-savings-final-pg3.jpg" alt="" />
 									<div class="overlay">
 										<span class="text">PROJECT DAYLIGHT SAVING</span>
 									</div>
@@ -119,6 +231,14 @@
 							<a href="watercolor-figures.php">
 								<div class="tile scale-anm life-drawings all">
 									<img src="https://res.cloudinary.com/dzf64w6kx/image/upload/v1554705476/n-adamson/life-drawings/watercolor-figures/figure-drawing-one.jpg" alt="" />
+									<div class="overlay">
+										<span class="text">WATERCOLOR FIGURE DRAWINGS</span>
+									</div>
+								</div>
+							</a>
+							<a href="watercolor-figures.php">
+								<div class="tile scale-anm life-drawings all">
+									<img src="https://res.cloudinary.com/dzf64w6kx/image/upload/v1554705476/n-adamson/life-drawings/watercolor-figures/figure-drawing-four.jpg" alt="" />
 									<div class="overlay">
 										<span class="text">WATERCOLOR FIGURE DRAWINGS</span>
 									</div>

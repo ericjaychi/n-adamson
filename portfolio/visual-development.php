@@ -52,9 +52,41 @@
 									</div>
 								</div>
 							</a>
+							<a href="lakeside.php">
+								<div class="tile scale-anm personal all">
+									<img src="https://res.cloudinary.com/dzf64w6kx/image/upload/v1550545207/n-adamson/personal/lakehouse-color-studies.jpg" alt="" />
+									<div class="overlay">
+										<span class="text">LAKESIDE</span>
+									</div>
+								</div>
+							</a>
+							<a href="lakeside.php">
+								<div class="tile scale-anm personal all">
+									<img src="https://res.cloudinary.com/dzf64w6kx/image/upload/v1550545313/n-adamson/personal/lakehouse-sketch.jpg" alt="" />
+									<div class="overlay">
+										<span class="text">LAKESIDE</span>
+									</div>
+								</div>
+							</a>
 							<a href="lorin-and-the-otherwordly-chase-scene.php">
 								<div class="tile scale-anm storyboard all">
 									<img src="https://res.cloudinary.com/dzf64w6kx/image/upload/v1554706271/n-adamson/personal/chase-scene-final.jpg" alt="" />
+									<div class="overlay">
+										<span class="text">LORIN & THE OTHERWORDLY: CHASE SCENE</span>
+									</div>
+								</div>
+							</a>
+							<a href="lorin-and-the-otherwordly-chase-scene.php">
+								<div class="tile scale-anm storyboard all">
+									<img src="https://res.cloudinary.com/dzf64w6kx/image/upload/v1554706271/n-adamson/personal/chase-scene-revised.jpg" alt="" />
+									<div class="overlay">
+										<span class="text">LORIN & THE OTHERWORDLY: CHASE SCENE</span>
+									</div>
+								</div>
+							</a>
+							<a href="lorin-and-the-otherwordly-chase-scene.php">
+								<div class="tile scale-anm storyboard all">
+									<img src="https://res.cloudinary.com/dzf64w6kx/image/upload/v1554706271/n-adamson/personal/chase-scene-roughs.jpg" alt="" />
 									<div class="overlay">
 										<span class="text">LORIN & THE OTHERWORDLY: CHASE SCENE</span>
 									</div>
@@ -68,9 +100,65 @@
 									</div>
 								</div>
 							</a>
+							<a href="vesperia.php">
+								<div class="tile scale-anm professional all">
+									<img src="http://res.cloudinary.com/dzf64w6kx/image/upload/v1498152965/n-adamson/professional/vesperia-closeup-pg2.jpg" alt="" />
+									<div class="overlay">
+										<span class="text">VESPERIA<br><span class="inner">(AGE OF ARCADIA™)</span></span>
+									</div>
+								</div>
+							</a>
+							<a href="vesperia.php">
+								<div class="tile scale-anm professional all">
+									<img src="http://res.cloudinary.com/dzf64w6kx/image/upload/v1498152966/n-adamson/professional/vesperia-pg1.jpg" alt="" />
+									<div class="overlay">
+										<span class="text">VESPERIA<br><span class="inner">(AGE OF ARCADIA™)</span></span>
+									</div>
+								</div>
+							</a>
+							<a href="vesperia.php">
+								<div class="tile scale-anm professional all">
+									<img src="http://res.cloudinary.com/dzf64w6kx/image/upload/v1498152966/n-adamson/professional/vesperia-pg2.jpg" alt="" />
+									<div class="overlay">
+										<span class="text">VESPERIA<br><span class="inner">(AGE OF ARCADIA™)</span></span>
+									</div>
+								</div>
+							</a>
+							<a href="vesperia.php">
+								<div class="tile scale-anm professional all">
+									<img src="http://res.cloudinary.com/dzf64w6kx/image/upload/v1498152966/n-adamson/professional/vesperia-pg3.jpg" alt="" />
+									<div class="overlay">
+										<span class="text">VESPERIA<br><span class="inner">(AGE OF ARCADIA™)</span></span>
+									</div>
+								</div>
+							</a>
+							<a href="vesperia.php">
+								<div class="tile scale-anm professional all">
+									<img src="http://res.cloudinary.com/dzf64w6kx/image/upload/v1498152967/n-adamson/professional/vesperia-pg4.jpg" alt="" />
+									<div class="overlay">
+										<span class="text">VESPERIA<br><span class="inner">(AGE OF ARCADIA™)</span></span>
+									</div>
+								</div>
+							</a>
 							<a href="fish-house.php">
 								<div class="tile scale-anm personal all">
 									<img src="https://res.cloudinary.com/dzf64w6kx/image/upload/v1550550518/n-adamson/personal/fish-house.jpg" alt="" />
+									<div class="overlay">
+										<span class="text">FISH HOUSE</span>
+									</div>
+								</div>
+							</a>
+							<a href="fish-house.php">
+								<div class="tile scale-anm personal all">
+									<img src="https://res.cloudinary.com/dzf64w6kx/image/upload/v1552166848/n-adamson/personal/fish-house-linework.jpg" alt="" />
+									<div class="overlay">
+										<span class="text">FISH HOUSE</span>
+									</div>
+								</div>
+							</a>
+							<a href="fish-house.php">
+								<div class="tile scale-anm personal all">
+									<img src="https://res.cloudinary.com/dzf64w6kx/image/upload/v1552166848/n-adamson/personal/fish-house-value.jpg" alt="" />
 									<div class="overlay">
 										<span class="text">FISH HOUSE</span>
 									</div>
@@ -108,9 +196,25 @@
 									</div>
 								</div>
 							</a>
+							<a href="watercolor-figures.php">
+								<div class="tile scale-anm life-drawings all">
+									<img src="https://res.cloudinary.com/dzf64w6kx/image/upload/v1554705476/n-adamson/life-drawings/watercolor-figures/figure-drawing-three.jpg" alt="" />
+									<div class="overlay">
+										<span class="text">WATERCOLOR FIGURE DRAWINGS</span>
+									</div>
+								</div>
+							</a>
 							<a href="face-studies.php">
 								<div class="tile scale-anm life-drawings all">
 									<img src="https://res.cloudinary.com/dzf64w6kx/image/upload/v1552169711/n-adamson/life-drawings/face-studies/face-sketches-one.jpg" alt="" />
+									<div class="overlay">
+										<span class="text">FACE STUDIES</span>
+									</div>
+								</div>
+							</a>
+							<a href="face-studies.php">
+								<div class="tile scale-anm life-drawings all">
+									<img src="https://res.cloudinary.com/dzf64w6kx/image/upload/v1552169711/n-adamson/life-drawings/face-studies/face-sketches-two.jpg" alt="" />
 									<div class="overlay">
 										<span class="text">FACE STUDIES</span>
 									</div>
