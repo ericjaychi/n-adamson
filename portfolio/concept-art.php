@@ -51,14 +51,6 @@
 							</a>
 							<a href="fault-city.php">
 								<div class="tile scale-anm">
-									<img src="http://res.cloudinary.com/dzf64w6kx/image/upload/v1498153525/n-adamson/personal/newport-temps-fault-city-pg3_mini.jpg" alt="" />
-									<div class="overlay">
-										<span class="text">FAULT CITY</span>
-									</div>
-								</div>
-							</a>
-							<a href="fault-city.php">
-								<div class="tile scale-anm">
 									<img src="http://res.cloudinary.com/dzf64w6kx/image/upload/v1498153526/n-adamson/personal/newport-temps-fault-city-pg4_mini.jpg" alt="" />
 									<div class="overlay">
 										<span class="text">FAULT CITY</span>
@@ -201,6 +193,14 @@
 									</div>
 								</div>
 							</a>
+							<a href="watercolor-gouache-paintings.php">
+								<div class="tile scale-anm sketchbook">
+									<img src="https://res.cloudinary.com/dzf64w6kx/image/upload/v1578261565/n-adamson/life-drawings/watercolor-gouache-paintings/watercolor-gouache-painting-one.jpg" alt="" />
+									<div class="overlay">
+										<span class="text">WATERCOLOR & GOUACHE PAINTINGS</span>
+									</div>
+								</div>
+							</a>
 							<a href="http://res.cloudinary.com/dzf64w6kx/image/upload/v1501285459/n-adamson/personal/sketches-final-2.jpg" data-lightbox="roadtrip">
 								<div class="tile scale-anm">
 									<img src="http://res.cloudinary.com/dzf64w6kx/image/upload/v1501285459/n-adamson/personal/sketches-final-2.jpg" alt="" />
@@ -214,14 +214,6 @@
 									<img src="http://res.cloudinary.com/dzf64w6kx/image/upload/v1498153774/n-adamson/storyboards/newport-tempss-boards-pg1_mini.jpg" alt="" />
 									<div class="overlay">
 										<span class="text">STORYBOARDS</span>
-									</div>
-								</div>
-							</a>
-							<a href="watercolor-gouache-paintings.php">
-								<div class="tile scale-anm sketchbook">
-									<img src="https://res.cloudinary.com/dzf64w6kx/image/upload/v1578261565/n-adamson/life-drawings/watercolor-gouache-paintings/watercolor-gouache-painting-one.jpg" alt="" />
-									<div class="overlay">
-										<span class="text">WATERCOLOR & GOUACHE PAINTINGS</span>
 									</div>
 								</div>
 							</a>

@@ -113,22 +113,6 @@
 									</div>
 								</div>
 							</a>
-							<a href="lorin-and-the-otherwordly-chase-scene.php">
-								<div class="tile scale-anm storyboard">
-									<img src="https://res.cloudinary.com/dzf64w6kx/image/upload/v1554706271/n-adamson/personal/chase-scene-revised.jpg" alt="" />
-									<div class="overlay">
-										<span class="text">LORIN & THE OTHERWORDLY: CHASE SCENE</span>
-									</div>
-								</div>
-							</a>
-							<a href="lorin-and-the-otherwordly-chase-scene.php">
-								<div class="tile scale-anm storyboard">
-									<img src="https://res.cloudinary.com/dzf64w6kx/image/upload/v1554706271/n-adamson/personal/chase-scene-roughs.jpg" alt="" />
-									<div class="overlay">
-										<span class="text">LORIN & THE OTHERWORDLY: CHASE SCENE</span>
-									</div>
-								</div>
-							</a>
 							<a href="vesperia.php">
 								<div class="tile scale-anm">
 									<img src="http://res.cloudinary.com/dzf64w6kx/image/upload/v1498152964/n-adamson/professional/vesperia-closeup-pg1.jpg" alt="" />
@@ -242,7 +226,7 @@
 								</div>
 							</a>
 							<a href="watercolor-figures.php">
-								<div class="tile scale-anm sketchbook">
+								<div class="tile scale-anm">
 									<img src="https://res.cloudinary.com/dzf64w6kx/image/upload/v1554705476/n-adamson/life-drawings/watercolor-figures/figure-drawing-three.jpg" alt="" />
 									<div class="overlay">
 										<span class="text">WATERCOLOR FIGURE DRAWINGS</span>
@@ -250,16 +234,8 @@
 								</div>
 							</a>
 							<a href="face-studies.php">
-								<div class="tile scale-anm">
+								<div class="tile scale-anm sketchbook">
 									<img src="https://res.cloudinary.com/dzf64w6kx/image/upload/v1552169711/n-adamson/life-drawings/face-studies/face-sketches-one.jpg" alt="" />
-									<div class="overlay">
-										<span class="text">FACE STUDIES</span>
-									</div>
-								</div>
-							</a>
-							<a href="face-studies.php">
-								<div class="tile scale-anm">
-									<img src="https://res.cloudinary.com/dzf64w6kx/image/upload/v1552169711/n-adamson/life-drawings/face-studies/face-sketches-two.jpg" alt="" />
 									<div class="overlay">
 										<span class="text">FACE STUDIES</span>
 									</div>

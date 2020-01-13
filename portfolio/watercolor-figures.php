@@ -53,21 +53,6 @@
 								<img class="nested-page-image" src="https://res.cloudinary.com/dzf64w6kx/image/upload/v1554705476/n-adamson/life-drawings/watercolor-figures/figure-drawing-five.jpg" alt="" />
 							</div>
 						</a>
-						<a href="https://res.cloudinary.com/dzf64w6kx/image/upload/v1554705476/n-adamson/life-drawings/watercolor-figures/figure-drawing-six.jpg" data-lightbox="roadtrip">
-							<div class="tile scale-anm sketches all">
-								<img class="nested-page-image" src="https://res.cloudinary.com/dzf64w6kx/image/upload/v1554705476/n-adamson/life-drawings/watercolor-figures/figure-drawing-six.jpg" alt="" />
-							</div>
-						</a>
-						<a href="https://res.cloudinary.com/dzf64w6kx/image/upload/v1554705476/n-adamson/life-drawings/watercolor-figures/figure-drawing-seven.jpg" data-lightbox="roadtrip">
-							<div class="tile scale-anm sketches all">
-								<img class="nested-page-image" src="https://res.cloudinary.com/dzf64w6kx/image/upload/v1554705476/n-adamson/life-drawings/watercolor-figures/figure-drawing-seven.jpg" alt="" />
-							</div>
-						</a>
-						<a href="https://res.cloudinary.com/dzf64w6kx/image/upload/v1554705476/n-adamson/life-drawings/watercolor-figures/figure-drawing-eight.jpg" data-lightbox="roadtrip">
-							<div class="tile scale-anm sketches all">
-								<img src="https://res.cloudinary.com/dzf64w6kx/image/upload/v1554705476/n-adamson/life-drawings/watercolor-figures/figure-drawing-eight.jpg" alt="" />
-							</div>
-						</a>
 					</div>
 					<div class="col-md-4">
 						<p class="description-title">
