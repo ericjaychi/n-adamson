@@ -227,7 +227,7 @@
 							</a>
 							<a href="watercolor-gouache-paintings.php">
 								<div class="tile scale-anm sketchbook">
-									<img src="https://res.cloudinary.com/dzf64w6kx/image/upload/v1578261565/n-adamson/life-drawings/watercolor-gouache-paintings/watercolor-gouache-painting-one.jpg" alt="" />
+									<img src="https://res.cloudinary.com/dzf64w6kx/image/upload/v1578261565/n-adamson/life-drawings/watercolor-gouache-paintings/watercolor-gouache-painting-five.jpg" alt="" />
 									<div class="overlay">
 										<span class="text">WATERCOLOR & GOUACHE PAINTINGS</span>
 									</div>
